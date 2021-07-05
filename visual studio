@@ -1,0 +1,421 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Sat Jul 03 01:53:50 +0000 2021",
+            "id": 1411141098789998601,
+            "id_str": "1411141098789998601",
+            "text": "Windowsでディープラーニングしたいと思って、Visual Studio 2019 + Anaconda3 + CUDA + cuDNN + TensorFlow2.5 の構成で環境を整えました。 ネット上の記事も書籍も、全般… https://t.co/YQISnCpnBu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YQISnCpnBu",
+                        "expanded_url": "https://twitter.com/i/web/status/1411141098789998601",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 886087615,
+                "id_str": "886087615",
+                "name": "くいなちゃん",
+                "screen_name": "kuina_ch",
+                "location": "",
+                "description": "わたしの知識の一部をあげますので、あなたの一部をください！　くいなちゃん、６さい。　フォローが多いですが、結構読んでいます。　サイト→ https://t.co/kOujEt1qiR　[イラスト／作曲／プログラミング／ゲーム制作／あらゆる学問／…",
+                "url": "https://t.co/Xcw52Iosqv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Xcw52Iosqv",
+                                "expanded_url": "https://kuina.ch",
+                                "display_url": "kuina.ch",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/kOujEt1qiR",
+                                "expanded_url": "http://kuina.ch",
+                                "display_url": "kuina.ch",
+                                "indices": [
+                                    68,
+                                    91
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 36395,
+                "friends_count": 29847,
+                "listed_count": 708,
+                "created_at": "Wed Oct 17 04:41:49 +0000 2012",
+                "favourites_count": 282913,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 18660,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFF04D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1370697892642516998/pymfEO2S_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370697892642516998/pymfEO2S_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/886087615/1491837091",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 36,
+            "favorite_count": 298,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 06:02:35 +0000 2021",
+            "id": 1410478923104718855,
+            "id_str": "1410478923104718855",
+            "text": "Microsoft が Visual Studio Code 向けに何か新しい機能を出すたびに「Vim で使える様にしろ」って言い出す Vim ヤクザが近年問題視されている。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3180341,
+                "id_str": "3180341",
+                "name": "mattn",
+                "screen_name": "mattn_jp",
+                "location": "Osaka, Japan",
+                "description": "Long-time #Golang user&contributor, @GoogleDevExpert Go, Author of Go tools, #Vim plugins. #Windows hacker, #GitHub stars, #runner.\nhttps://t.co/t2LBoilJw9\n発言は全て冗談です",
+                "url": "https://t.co/gQTGxgKZ7J",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gQTGxgKZ7J",
+                                "expanded_url": "https://mattn.kaoriya.net/",
+                                "display_url": "mattn.kaoriya.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/t2LBoilJw9",
+                                "expanded_url": "http://github.com/mattn",
+                                "display_url": "github.com/mattn",
+                                "indices": [
+                                    132,
+                                    155
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 20223,
+                "friends_count": 2667,
+                "listed_count": 648,
+                "created_at": "Mon Apr 02 04:19:11 +0000 2007",
+                "favourites_count": 33766,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 155913,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3180341/1398600741",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 114,
+            "favorite_count": 556,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 23:44:35 +0000 2021",
+            "id": 1410021409833709570,
+            "id_str": "1410021409833709570",
+            "text": "はぁー。恋人がVisual Studio Code位気が利く人じゃったらいいのに😩",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1268751606893260807,
+                "id_str": "1268751606893260807",
+                "name": "おばあちゃんのプログラミング教室（ばあプロ）【旧式】",
+                "screen_name": "Pythonist19",
+                "location": "東京 新宿区",
+                "description": "10年間の開発と5年間の新人教育の経験を活かしやさしく解説。初学者向けにWeb制作の歩き方（https://t.co/VsjwBebnZr）公開。　\nお気に入りエディタはMery。Python, PHP, HTML, MySQL, ラズパイ。Vueが好き。MBAほるだぁ。エンジニア兼Webマーケ。DM見ないぞい",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VsjwBebnZr",
+                                "expanded_url": "http://www.baapuro.com",
+                                "display_url": "baapuro.com",
+                                "indices": [
+                                    46,
+                                    69
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 19753,
+                "friends_count": 16571,
+                "listed_count": 91,
+                "created_at": "Fri Jun 05 03:49:03 +0000 2020",
+                "favourites_count": 51243,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 31051,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1373400048462045185/x5L1G8Uw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373400048462045185/x5L1G8Uw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268751606893260807/1591340962",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 301,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 16:19:13 +0000 2021",
+            "id": 1409909327452721153,
+            "id_str": "1409909327452721153",
+            "text": "新卒で入った社､visual studio(VSCodeじゃないよ!!!)でデバッガ動かして意図したif文の分岐に入ってるかをスクショで取ってエクセルにペタペタ貼るのが単体テストで辛くなってgtestやらに関心を持って導入を提案し… https://t.co/ilpPSryZfa",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ilpPSryZfa",
+                        "expanded_url": "https://twitter.com/i/web/status/1409909327452721153",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 5685672,
+                "id_str": "5685672",
+                "name": "プロビジョニング",
+                "screen_name": "usadamasa",
+                "location": "水天宮",
+                "description": "14歳女子中学生です。\nGoogle Cloud Professional Cloud Developer",
+                "url": "https://t.co/l9BB2SAWTq",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/l9BB2SAWTq",
+                                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/25MUVLC7VB34G?ref_=wl_share",
+                                "display_url": "amazon.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2642,
+                "friends_count": 2012,
+                "listed_count": 192,
+                "created_at": "Tue May 01 14:00:43 +0000 2007",
+                "favourites_count": 147463,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 309652,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1251463320541908992/bgcmPDh3_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251463320541908992/bgcmPDh3_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5685672/1560208254",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 192,
+            "favorite_count": 806,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
