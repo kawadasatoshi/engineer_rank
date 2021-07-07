@@ -1,0 +1,4178 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Tue Jul 06 00:31:39 +0000 2021",
+            "id": 1412207580508655644,
+            "id_str": "1412207580508655644",
+            "text": "新しいノパソ、まっさらな状態なのでついでにとWindows11を試食。そしてそのままWSL2も試食。\n本当に面倒なこと何もせずにUbuntuが入ってROS (netic)が入ってrvizが起動したわ。 https://t.co/MjA162uQfU",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1412207491945877504,
+                        "id_str": "1412207491945877504",
+                        "indices": [
+                            101,
+                            124
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5krO1KUUAAEZlK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5krO1KUUAAEZlK.jpg",
+                        "url": "https://t.co/MjA162uQfU",
+                        "display_url": "pic.twitter.com/MjA162uQfU",
+                        "expanded_url": "https://twitter.com/strv/status/1412207580508655644/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1412207491945877504,
+                        "id_str": "1412207491945877504",
+                        "indices": [
+                            101,
+                            124
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5krO1KUUAAEZlK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5krO1KUUAAEZlK.jpg",
+                        "url": "https://t.co/MjA162uQfU",
+                        "display_url": "pic.twitter.com/MjA162uQfU",
+                        "expanded_url": "https://twitter.com/strv/status/1412207580508655644/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 73285959,
+                "id_str": "73285959",
+                "name": "strv",
+                "screen_name": "strv",
+                "location": "東京",
+                "description": "ロボット系ベンチャーで働いてるよ．すとらヴぁって読んでね．専門はロボット工学(博士)．回路は趣味．鉄道とかコスプレ撮ったり．王国民．HA10mini設計した人．写真https://t.co/I9zvDQh1T5…　サブ垢@mlkwy　カイブ189186 干し芋https://t.co/cPdo53WG0c",
+                "url": "https://t.co/iJd7B6K1qB",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/iJd7B6K1qB",
+                                "expanded_url": "https://strv.jp",
+                                "display_url": "strv.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/I9zvDQh1T5",
+                                "expanded_url": "http://flickr.com/photos/9738308",
+                                "display_url": "flickr.com/photos/9738308",
+                                "indices": [
+                                    82,
+                                    105
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/cPdo53WG0c",
+                                "expanded_url": "http://amzn.asia/6NUf4KF",
+                                "display_url": "amzn.asia/6NUf4KF",
+                                "indices": [
+                                    130,
+                                    153
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4619,
+                "friends_count": 1905,
+                "listed_count": 198,
+                "created_at": "Fri Sep 11 02:21:59 +0000 2009",
+                "favourites_count": 165,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 220606,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2436805453/2vwiwkei0c1cegclld46_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2436805453/2vwiwkei0c1cegclld46_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/73285959/1485878558",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 33,
+            "favorite_count": 115,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 05 08:03:54 +0000 2021",
+            "id": 1411959006357196805,
+            "id_str": "1411959006357196805",
+            "text": "こんばんは！飯塚は今日も蒸し暑い一日でした！今日は交流プラザでパソコンつなごう会の特別教室でした！ご参加頂いた皆さんに感謝申し上げます！以前からの質問の回答でした！今秋には新しいWindows11を搭載したパソコンがお店に登場しま… https://t.co/ecJ9Ntdtcw",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ecJ9Ntdtcw",
+                        "expanded_url": "https://twitter.com/i/web/status/1411959006357196805",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 146783760,
+                "id_str": "146783760",
+                "name": "sato",
+                "screen_name": "satonakama",
+                "location": "福岡県飯塚",
+                "description": "｢パソコンつなごう会｣と言うパソコンの勉強会をやっています。主に日曜日、月曜日、木曜日に楽しんでいます！日頃は畑を耕したり、野鳥などと戯れ、ときおり下手な句をひねる毎日です。４人の孫が可愛い！！",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3335,
+                "friends_count": 93,
+                "listed_count": 53,
+                "created_at": "Sat May 22 09:43:03 +0000 2010",
+                "favourites_count": 732196,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 22953,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "8B542B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1327822110/satonakama001_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327822110/satonakama001_normal.jpg",
+                "profile_link_color": "9D582E",
+                "profile_sidebar_border_color": "D9B17E",
+                "profile_sidebar_fill_color": "EADEAA",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 126,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 12:39:09 +0000 2021",
+            "id": 1411665888252600320,
+            "id_str": "1411665888252600320",
+            "text": "ちょっと機能足して見た目を変えたのがWindows11",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 884693323268603904,
+                "id_str": "884693323268603904",
+                "name": "竹林人間🍣🍊3g+◢.aup",
+                "screen_name": "Chromium_Linux",
+                "location": "22歳までにボカロPになりたいとか考えてる",
+                "description": "デザインとか動画とかサーバーとか\nたまにIoT開発とか\n\n依頼→ info@otintin.world\n\nヘッダー作ってくれた人→@Chromium_Linux",
+                "url": "https://t.co/14Uetx6IJa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/14Uetx6IJa",
+                                "expanded_url": "https://line.me/R/ti/p/%40hwh0941n",
+                                "display_url": "line.me/R/ti/p/%40hwh0…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7107,
+                "friends_count": 2327,
+                "listed_count": 150,
+                "created_at": "Tue Jul 11 08:38:19 +0000 2017",
+                "favourites_count": 289053,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 73841,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/884693323268603904/1617694067",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 115,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 03 02:00:05 +0000 2021",
+            "id": 1411142671293313030,
+            "id_str": "1411142671293313030",
+            "text": "【今週の人気記事】【笠原一輝のユビキタス情報局】Windows 11に更新可能なCPUを解明。Intelは第8世代Core、AMDはRyzen 2000以降が必要 https://t.co/hvssHEmS1s #Windows11 https://t.co/PwEbO2IiZm",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            106,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/hvssHEmS1s",
+                        "expanded_url": "https://pc.watch.impress.co.jp/docs/column/ubiq/1334310.html",
+                        "display_url": "pc.watch.impress.co.jp/docs/column/ub…",
+                        "indices": [
+                            82,
+                            105
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1411142665534509061,
+                        "id_str": "1411142665534509061",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5VixxqVEAUUrP2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5VixxqVEAUUrP2.jpg",
+                        "url": "https://t.co/PwEbO2IiZm",
+                        "display_url": "pic.twitter.com/PwEbO2IiZm",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1411142671293313030/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1411142665534509061,
+                        "id_str": "1411142665534509061",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5VixxqVEAUUrP2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5VixxqVEAUUrP2.jpg",
+                        "url": "https://t.co/PwEbO2IiZm",
+                        "display_url": "pic.twitter.com/PwEbO2IiZm",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1411142671293313030/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1411142667593945092,
+                        "id_str": "1411142667593945092",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5Vix5VVkAQW7UL.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5Vix5VVkAQW7UL.jpg",
+                        "url": "https://t.co/PwEbO2IiZm",
+                        "display_url": "pic.twitter.com/PwEbO2IiZm",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1411142671293313030/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 805,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 456,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 805,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1411142669485494277,
+                        "id_str": "1411142669485494277",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5ViyAYUUAUSjnN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5ViyAYUUAUSjnN.jpg",
+                        "url": "https://t.co/PwEbO2IiZm",
+                        "display_url": "pic.twitter.com/PwEbO2IiZm",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1411142671293313030/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1200,
+                                "h": 909,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 515,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 909,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://pc.watch.impress.co.jp/\" rel=\"nofollow\">PC Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33802188,
+                "id_str": "33802188",
+                "name": "PC Watch",
+                "screen_name": "pc_watch",
+                "location": "東京都千代田区",
+                "description": "「PC Watch」の公式Twitterアカウントです。記事リンクと告知などをツイートしております。個別にお返事はできませんが、コメントは編集部一同で読ませていただきます",
+                "url": "http://t.co/xqsOvqPDAR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xqsOvqPDAR",
+                                "expanded_url": "http://pc.watch.impress.co.jp/",
+                                "display_url": "pc.watch.impress.co.jp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104483,
+                "friends_count": 46,
+                "listed_count": 4294,
+                "created_at": "Tue Apr 21 03:55:35 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51685,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3366FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33802188/1587309918",
+                "profile_link_color": "4F58FD",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 66,
+            "favorite_count": 148,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 02 08:44:52 +0000 2021",
+            "id": 1410882151092871171,
+            "id_str": "1410882151092871171",
+            "text": "お待たせしました。ローカライズ及びサイトへの反映がが完了しました！\n\n話題のWindows11とTPM2.0についてです。\n\n[Motherboard] ASUS マザーボードに Windows 11 をインストールする方法は?\nhttps://t.co/SEIytS4jua",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/SEIytS4jua",
+                        "expanded_url": "https://www.asus.com/jp/support/FAQ/1046215",
+                        "display_url": "asus.com/jp/support/FAQ…",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 87102099,
+                "id_str": "87102099",
+                "name": "ROG Japan",
+                "screen_name": "ASUSROGJP",
+                "location": "Tokyo",
+                "description": "『Republic of Gamers（ROG）』日本公式アカウントです。PCパーツやゲーミングPC、PC周辺機器、イベントなどを担当スタッフがゆるりとつぶやきます。 ※本アカウントではメンションおよびDMでの個別対応や製品サポートは行っておりません。",
+                "url": "https://t.co/dqWNIXsyfN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dqWNIXsyfN",
+                                "expanded_url": "https://www.asus.com/jp/ROG-Republic-Of-Gamers/",
+                                "display_url": "asus.com/jp/ROG-Republi…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 201507,
+                "friends_count": 1007,
+                "listed_count": 1713,
+                "created_at": "Tue Nov 03 03:48:37 +0000 2009",
+                "favourites_count": 52026,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 64326,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1218075841743093760/POcJJF_M_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218075841743093760/POcJJF_M_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/87102099/1621848785",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 88,
+            "favorite_count": 184,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 13:34:12 +0000 2021",
+            "id": 1410592575610785792,
+            "id_str": "1410592575610785792",
+            "text": "Core2Duo P8700とか言う化石CPUでもWindows11入ったw https://t.co/uavSVZZhay",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1410592328289460231,
+                        "id_str": "1410592328289460231",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5NuP7qVoAcO4Rm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5NuP7qVoAcO4Rm.jpg",
+                        "url": "https://t.co/uavSVZZhay",
+                        "display_url": "pic.twitter.com/uavSVZZhay",
+                        "expanded_url": "https://twitter.com/Chromium_Linux/status/1410592575610785792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1410592328289460231,
+                        "id_str": "1410592328289460231",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5NuP7qVoAcO4Rm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5NuP7qVoAcO4Rm.jpg",
+                        "url": "https://t.co/uavSVZZhay",
+                        "display_url": "pic.twitter.com/uavSVZZhay",
+                        "expanded_url": "https://twitter.com/Chromium_Linux/status/1410592575610785792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 884693323268603904,
+                "id_str": "884693323268603904",
+                "name": "竹林人間🍣🍊3g+◢.aup",
+                "screen_name": "Chromium_Linux",
+                "location": "22歳までにボカロPになりたいとか考えてる",
+                "description": "デザインとか動画とかサーバーとか\nたまにIoT開発とか\n\n依頼→ info@otintin.world\n\nヘッダー作ってくれた人→@Chromium_Linux",
+                "url": "https://t.co/14Uetx6IJa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/14Uetx6IJa",
+                                "expanded_url": "https://line.me/R/ti/p/%40hwh0941n",
+                                "display_url": "line.me/R/ti/p/%40hwh0…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7107,
+                "friends_count": 2327,
+                "listed_count": 150,
+                "created_at": "Tue Jul 11 08:38:19 +0000 2017",
+                "favourites_count": 289053,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 73841,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/884693323268603904/1617694067",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 203,
+            "favorite_count": 769,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 11:58:14 +0000 2021",
+            "id": 1410568425806520320,
+            "id_str": "1410568425806520320",
+            "text": "ちなみに対応しないCPUにWindows11インストールできるメディアの作り方は\n「UUPでWindows11のinstall.wimを作成」→「Windows10 21H1 64bitのISOを書き換え」→「rufusで適当なU… https://t.co/V6KjaOznUH",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/V6KjaOznUH",
+                        "expanded_url": "https://twitter.com/i/web/status/1410568425806520320",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 884693323268603904,
+                "id_str": "884693323268603904",
+                "name": "竹林人間🍣🍊3g+◢.aup",
+                "screen_name": "Chromium_Linux",
+                "location": "22歳までにボカロPになりたいとか考えてる",
+                "description": "デザインとか動画とかサーバーとか\nたまにIoT開発とか\n\n依頼→ info@otintin.world\n\nヘッダー作ってくれた人→@Chromium_Linux",
+                "url": "https://t.co/14Uetx6IJa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/14Uetx6IJa",
+                                "expanded_url": "https://line.me/R/ti/p/%40hwh0941n",
+                                "display_url": "line.me/R/ti/p/%40hwh0…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7107,
+                "friends_count": 2327,
+                "listed_count": 150,
+                "created_at": "Tue Jul 11 08:38:19 +0000 2017",
+                "favourites_count": 289053,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 73841,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/884693323268603904/1617694067",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 162,
+            "favorite_count": 374,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 09:34:17 +0000 2021",
+            "id": 1410532201695825921,
+            "id_str": "1410532201695825921",
+            "text": "年末にはWindows11がアップデートされますが、事前にPCの動作条件に合うのかチェックした方が良いかもです。\nWin11 はTPM2.0が必須条件となりますが、大抵はBIOS設定で対応可能。\nPCに詳しくないとお手持ちのPCで… https://t.co/6Xrs4EoHhJ",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/6Xrs4EoHhJ",
+                        "expanded_url": "https://twitter.com/i/web/status/1410532201695825921",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1375313141374971910,
+                "id_str": "1375313141374971910",
+                "name": "成田メンズエステ トリップ",
+                "screen_name": "narita_trip0",
+                "location": "千葉 成田市",
+                "description": "成田メンズエステ トリップ 4月9日 Grand Opening\n「脱がない・抜かない・触られない」の健全なアロママッサージのメンズエステ店です。\nセラピストさんとなって頂けるアルバイトを募集中、未経験の方も大歓迎です。\n出勤制限なし、ご都合の良い時間だけでOK。\n日給４万円以上可、全額日払い、お気軽にご連絡下さい。",
+                "url": "https://t.co/cpOakVOkiE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/cpOakVOkiE",
+                                "expanded_url": "https://narita-trip.com/",
+                                "display_url": "narita-trip.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1996,
+                "friends_count": 2607,
+                "listed_count": 9,
+                "created_at": "Fri Mar 26 05:07:29 +0000 2021",
+                "favourites_count": 36031,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 159,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1375317461600403459/EIdRk__D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375317461600403459/EIdRk__D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375313141374971910/1616750333",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 109,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 30 12:26:13 +0000 2021",
+            "id": 1410213078407344140,
+            "id_str": "1410213078407344140",
+            "text": "ワクチン反対派の皆さん、エンジニアにワクチンを打つと5Gに接続される！！！と言っても喜ぶだけです。\n\nWindows11への強制アップデータが入っている！！！と言いましょう。この方が効果があります。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1249613030922448896,
+                "id_str": "1249613030922448896",
+                "name": "大渕",
+                "screen_name": "yuki_obuchi",
+                "location": "",
+                "description": "@obuchi_yuki の日常用 筑波情メ3年 未踏スパクリ→未踏アドバンスト 孫正義育英財団 推し: 鈴木勝 ☪️ 質問箱：https://t.co/CgxqHSoMwh",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/CgxqHSoMwh",
+                                "expanded_url": "https://peing.net/ja/62af9be578193a",
+                                "display_url": "peing.net/ja/62af9be5781…",
+                                "indices": [
+                                    64,
+                                    87
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2143,
+                "friends_count": 2122,
+                "listed_count": 17,
+                "created_at": "Mon Apr 13 08:19:20 +0000 2020",
+                "favourites_count": 28842,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 11804,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1384118291615023107/ilU5-iHM_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384118291615023107/ilU5-iHM_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249613030922448896/1617271001",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 54,
+            "favorite_count": 134,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jun 30 02:23:42 +0000 2021",
+            "id": 1410061450786131968,
+            "id_str": "1410061450786131968",
+            "text": "【笠原一輝のユビキタス情報局】Windwos 11はなぜTPMが必要で、CPU制限が厳しいのか? その理由を詳しく説明 https://t.co/iz1c7DqkGL #Windows11 https://t.co/OzalEMHwoT",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            84,
+                            94
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/iz1c7DqkGL",
+                        "expanded_url": "https://pc.watch.impress.co.jp/docs/column/ubiq/1334963.html",
+                        "display_url": "pc.watch.impress.co.jp/docs/column/ub…",
+                        "indices": [
+                            60,
+                            83
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1410061446654750720,
+                        "id_str": "1410061446654750720",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5GLajdUcAABltE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5GLajdUcAABltE.jpg",
+                        "url": "https://t.co/OzalEMHwoT",
+                        "display_url": "pic.twitter.com/OzalEMHwoT",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1410061450786131968/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1410061446654750720,
+                        "id_str": "1410061446654750720",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5GLajdUcAABltE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5GLajdUcAABltE.jpg",
+                        "url": "https://t.co/OzalEMHwoT",
+                        "display_url": "pic.twitter.com/OzalEMHwoT",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1410061450786131968/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1410061448642846723,
+                        "id_str": "1410061448642846723",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5GLaq3UYAMZRTz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5GLaq3UYAMZRTz.jpg",
+                        "url": "https://t.co/OzalEMHwoT",
+                        "display_url": "pic.twitter.com/OzalEMHwoT",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1410061450786131968/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://pc.watch.impress.co.jp/\" rel=\"nofollow\">PC Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33802188,
+                "id_str": "33802188",
+                "name": "PC Watch",
+                "screen_name": "pc_watch",
+                "location": "東京都千代田区",
+                "description": "「PC Watch」の公式Twitterアカウントです。記事リンクと告知などをツイートしております。個別にお返事はできませんが、コメントは編集部一同で読ませていただきます",
+                "url": "http://t.co/xqsOvqPDAR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xqsOvqPDAR",
+                                "expanded_url": "http://pc.watch.impress.co.jp/",
+                                "display_url": "pc.watch.impress.co.jp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104483,
+                "friends_count": 46,
+                "listed_count": 4294,
+                "created_at": "Tue Apr 21 03:55:35 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51685,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3366FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33802188/1587309918",
+                "profile_link_color": "4F58FD",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 226,
+            "favorite_count": 279,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 22:35:23 +0000 2021",
+            "id": 1410003993997152257,
+            "id_str": "1410003993997152257",
+            "text": "M1で動くwindows11(insider) https://t.co/a5fGxyhOew",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1410003976871837699,
+                        "id_str": "1410003976871837699",
+                        "indices": [
+                            24,
+                            47
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5FXJX1VgAMK-i_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5FXJX1VgAMK-i_.jpg",
+                        "url": "https://t.co/a5fGxyhOew",
+                        "display_url": "pic.twitter.com/a5fGxyhOew",
+                        "expanded_url": "https://twitter.com/gadgelogger/status/1410003993997152257/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1410003976871837699,
+                        "id_str": "1410003976871837699",
+                        "indices": [
+                            24,
+                            47
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5FXJX1VgAMK-i_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5FXJX1VgAMK-i_.jpg",
+                        "url": "https://t.co/a5fGxyhOew",
+                        "display_url": "pic.twitter.com/a5fGxyhOew",
+                        "expanded_url": "https://twitter.com/gadgelogger/status/1410003993997152257/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1394312681209749510,
+                "id_str": "1394312681209749510",
+                "name": "Gadgelogger",
+                "screen_name": "gadgelogger",
+                "location": "",
+                "description": "スマホ・パソコン・カメラとかいじってる人です。",
+                "url": "https://t.co/jr5uQSfDVU",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/jr5uQSfDVU",
+                                "expanded_url": "https://gadgelogger.com/",
+                                "display_url": "gadgelogger.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 924,
+                "friends_count": 619,
+                "listed_count": 7,
+                "created_at": "Mon May 17 15:23:54 +0000 2021",
+                "favourites_count": 553,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1375,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1395216427175403520/TgxsmxBu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395216427175403520/TgxsmxBu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394312681209749510/1621349105",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 35,
+            "favorite_count": 309,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 21:35:38 +0000 2021",
+            "id": 1409988957299822595,
+            "id_str": "1409988957299822595",
+            "text": "お早う御座います！飯塚はアヤメ晴れ！今朝、Windows11の紹介メールが来ていました！ゆっくり見たいと思います！東京などでは「まん延防止」が延長されるようですね！仕方ない状況ですね！延楽！今日も万柳は「どんちゃん」さんの句に納得… https://t.co/TAz9AwojH5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/TAz9AwojH5",
+                        "expanded_url": "https://twitter.com/i/web/status/1409988957299822595",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 146783760,
+                "id_str": "146783760",
+                "name": "sato",
+                "screen_name": "satonakama",
+                "location": "福岡県飯塚",
+                "description": "｢パソコンつなごう会｣と言うパソコンの勉強会をやっています。主に日曜日、月曜日、木曜日に楽しんでいます！日頃は畑を耕したり、野鳥などと戯れ、ときおり下手な句をひねる毎日です。４人の孫が可愛い！！",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3335,
+                "friends_count": 93,
+                "listed_count": 53,
+                "created_at": "Sat May 22 09:43:03 +0000 2010",
+                "favourites_count": 732196,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 22953,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "8B542B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1327822110/satonakama001_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327822110/satonakama001_normal.jpg",
+                "profile_link_color": "9D582E",
+                "profile_sidebar_border_color": "D9B17E",
+                "profile_sidebar_fill_color": "EADEAA",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 171,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 15:45:18 +0000 2021",
+            "id": 1409900795496046595,
+            "id_str": "1409900795496046595",
+            "text": "Raspberry Pi 4にARM版 Windows 11をインストールしてみる。 https://t.co/p3PUXkheJ4 \n\n#Windows11 #RaspberryPi",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            69,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "RaspberryPi",
+                        "indices": [
+                            80,
+                            92
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/p3PUXkheJ4",
+                        "expanded_url": "https://miyagadget.tokyo/archives/274",
+                        "display_url": "miyagadget.tokyo/archives/274",
+                        "indices": [
+                            43,
+                            66
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1176135430267260928,
+                "id_str": "1176135430267260928",
+                "name": "七宮さん",
+                "screen_name": "shichinomiya_s",
+                "location": "Tokyo Shichinomiya-Ku",
+                "description": "リア友は回れ右。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 405,
+                "friends_count": 161,
+                "listed_count": 10,
+                "created_at": "Mon Sep 23 14:05:26 +0000 2019",
+                "favourites_count": 10164,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 16121,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1253660812666761216/xrGGO5h5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253660812666761216/xrGGO5h5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176135430267260928/1618448236",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 156,
+            "favorite_count": 348,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 15:29:10 +0000 2021",
+            "id": 1409896733937594375,
+            "id_str": "1409896733937594375",
+            "text": "F-07CでのWindows11互換性チェック結果乗せておきます。\n時代についていけなくても、これまで夢を沢山ありがとう https://t.co/oayIPSyteo",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1409896729416069124,
+                        "id_str": "1409896729416069124",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5D1mv7UcAQqKQ7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5D1mv7UcAQqKQ7.jpg",
+                        "url": "https://t.co/oayIPSyteo",
+                        "display_url": "pic.twitter.com/oayIPSyteo",
+                        "expanded_url": "https://twitter.com/denpa893/status/1409896733937594375/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 732,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 732,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 486,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409896729416069124,
+                        "id_str": "1409896729416069124",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5D1mv7UcAQqKQ7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5D1mv7UcAQqKQ7.jpg",
+                        "url": "https://t.co/oayIPSyteo",
+                        "display_url": "pic.twitter.com/oayIPSyteo",
+                        "expanded_url": "https://twitter.com/denpa893/status/1409896733937594375/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 732,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 732,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 486,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1409896732041781251,
+                        "id_str": "1409896732041781251",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5D1m5tVoAMj-k5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5D1m5tVoAMj-k5.jpg",
+                        "url": "https://t.co/oayIPSyteo",
+                        "display_url": "pic.twitter.com/oayIPSyteo",
+                        "expanded_url": "https://twitter.com/denpa893/status/1409896733937594375/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 398,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 599,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 599,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 559036266,
+                "id_str": "559036266",
+                "name": "電波やくざ",
+                "screen_name": "denpa893",
+                "location": "CELLULAR PHONE BASE STATION",
+                "description": "関東電測組中央第一ネットワーク部所属\n趣味で基地局を見るのが大好きです。",
+                "url": "https://t.co/RhCE068SHJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RhCE068SHJ",
+                                "expanded_url": "http://denpa893-network.iobb.net/",
+                                "display_url": "denpa893-network.iobb.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7654,
+                "friends_count": 496,
+                "listed_count": 255,
+                "created_at": "Fri Apr 20 21:25:23 +0000 2012",
+                "favourites_count": 17273,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 195462,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1342245880213065728/Kdowak1x_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342245880213065728/Kdowak1x_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/559036266/1483830127",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 170,
+            "favorite_count": 324,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 14:00:04 +0000 2021",
+            "id": 1409874312069365763,
+            "id_str": "1409874312069365763",
+            "text": "【今日の人気記事】Windows 11の最小システム要件が緩和、第7世代Core/Zen 1のRyzenも対象に https://t.co/66vCHoNdp6 #Windows11 https://t.co/3WSLiU1z5d",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            81,
+                            91
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/66vCHoNdp6",
+                        "expanded_url": "https://pc.watch.impress.co.jp/docs/news/1334629.html",
+                        "display_url": "pc.watch.impress.co.jp/docs/news/1334…",
+                        "indices": [
+                            57,
+                            80
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1409874310227968001,
+                        "id_str": "1409874310227968001",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5DhNx8WQAEt-4h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5DhNx8WQAEt-4h.jpg",
+                        "url": "https://t.co/3WSLiU1z5d",
+                        "display_url": "pic.twitter.com/3WSLiU1z5d",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409874312069365763/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409874310227968001,
+                        "id_str": "1409874310227968001",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5DhNx8WQAEt-4h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5DhNx8WQAEt-4h.jpg",
+                        "url": "https://t.co/3WSLiU1z5d",
+                        "display_url": "pic.twitter.com/3WSLiU1z5d",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409874312069365763/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://pc.watch.impress.co.jp/\" rel=\"nofollow\">PC Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33802188,
+                "id_str": "33802188",
+                "name": "PC Watch",
+                "screen_name": "pc_watch",
+                "location": "東京都千代田区",
+                "description": "「PC Watch」の公式Twitterアカウントです。記事リンクと告知などをツイートしております。個別にお返事はできませんが、コメントは編集部一同で読ませていただきます",
+                "url": "http://t.co/xqsOvqPDAR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xqsOvqPDAR",
+                                "expanded_url": "http://pc.watch.impress.co.jp/",
+                                "display_url": "pc.watch.impress.co.jp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104483,
+                "friends_count": 46,
+                "listed_count": 4294,
+                "created_at": "Tue Apr 21 03:55:35 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51685,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3366FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33802188/1587309918",
+                "profile_link_color": "4F58FD",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 85,
+            "favorite_count": 117,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 13:32:25 +0000 2021",
+            "id": 1409867351261077520,
+            "id_str": "1409867351261077520",
+            "text": "#MMD  Windows11でもMMD動きました。 https://t.co/XTfZz3FnCi",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MMD",
+                        "indices": [
+                            0,
+                            4
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1409866334863872013,
+                        "id_str": "1409866334863872013",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5DZ9jZX0A0ytV-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5DZ9jZX0A0ytV-.jpg",
+                        "url": "https://t.co/XTfZz3FnCi",
+                        "display_url": "pic.twitter.com/XTfZz3FnCi",
+                        "expanded_url": "https://twitter.com/kazun_s/status/1409867351261077520/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1325,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 440,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 776,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409866334863872013,
+                        "id_str": "1409866334863872013",
+                        "indices": [
+                            27,
+                            50
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5DZ9jZX0A0ytV-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5DZ9jZX0A0ytV-.jpg",
+                        "url": "https://t.co/XTfZz3FnCi",
+                        "display_url": "pic.twitter.com/XTfZz3FnCi",
+                        "expanded_url": "https://twitter.com/kazun_s/status/1409867351261077520/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1325,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 440,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 776,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 955520988,
+                "id_str": "955520988",
+                "name": "kazun.s",
+                "screen_name": "kazun_s",
+                "location": "",
+                "description": "MMDをちょっとだけ。\n（大した作品の発表も恐らく無く、格好いいツイもないですし、\nフォローはわざわざして頂かなくても良いかと。）",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 66,
+                "friends_count": 198,
+                "listed_count": 0,
+                "created_at": "Sun Nov 18 13:51:10 +0000 2012",
+                "favourites_count": 1563,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 426,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1286507917458305038/KCf6QVVo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286507917458305038/KCf6QVVo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/955520988/1593700278",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 206,
+            "favorite_count": 356,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 13:09:13 +0000 2021",
+            "id": 1409861514643722244,
+            "id_str": "1409861514643722244",
+            "text": "Windows11改悪ポイント2\nWindowキーのメニューすべてのソフトを見るには\nすべてのソフト\nというボタンを押さなければならず\n一覧性が低下した",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1164077283373486080,
+                "id_str": "1164077283373486080",
+                "name": "Binary number",
+                "screen_name": "Binary__number",
+                "location": "ほしいのリスト↓ 買ってくれる方はDMお願いします",
+                "description": "広島の18歳の男子工業高校生です。\n日常を呟きます/C#/C/Androidアプリ/電子工作/回路設計/最近はコンパイラを作ってます\n\n/#ASRock推し / #AMD推し\n/所属:@ActlogyOfficial\n/親友:@runrunyuto",
+                "url": "https://t.co/HtJ3sxjUBw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/HtJ3sxjUBw",
+                                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/D0R26P0LZLIY/?ref_=lol_ov_le",
+                                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3064,
+                "friends_count": 2084,
+                "listed_count": 43,
+                "created_at": "Wed Aug 21 07:30:40 +0000 2019",
+                "favourites_count": 82565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 92220,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1366632231544918016/u6ccZviv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366632231544918016/u6ccZviv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164077283373486080/1625388064",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 113,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 13:06:33 +0000 2021",
+            "id": 1409860841344618497,
+            "id_str": "1409860841344618497",
+            "text": "Windows11 改悪ポイント\nタスクバー右クリックのメニューが圧倒的に減った https://t.co/3VEBHOOlY7",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1409860837188149250,
+                        "id_str": "1409860837188149250",
+                        "indices": [
+                            41,
+                            64
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5DU9i9VoAIZfcn.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E5DU9i9VoAIZfcn.png",
+                        "url": "https://t.co/3VEBHOOlY7",
+                        "display_url": "pic.twitter.com/3VEBHOOlY7",
+                        "expanded_url": "https://twitter.com/Binary__number/status/1409860841344618497/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 501,
+                                "h": 137,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 137,
+                                "h": 137,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 501,
+                                "h": 137,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 501,
+                                "h": 137,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409860837188149250,
+                        "id_str": "1409860837188149250",
+                        "indices": [
+                            41,
+                            64
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5DU9i9VoAIZfcn.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E5DU9i9VoAIZfcn.png",
+                        "url": "https://t.co/3VEBHOOlY7",
+                        "display_url": "pic.twitter.com/3VEBHOOlY7",
+                        "expanded_url": "https://twitter.com/Binary__number/status/1409860841344618497/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 501,
+                                "h": 137,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 137,
+                                "h": 137,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 501,
+                                "h": 137,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 501,
+                                "h": 137,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1164077283373486080,
+                "id_str": "1164077283373486080",
+                "name": "Binary number",
+                "screen_name": "Binary__number",
+                "location": "ほしいのリスト↓ 買ってくれる方はDMお願いします",
+                "description": "広島の18歳の男子工業高校生です。\n日常を呟きます/C#/C/Androidアプリ/電子工作/回路設計/最近はコンパイラを作ってます\n\n/#ASRock推し / #AMD推し\n/所属:@ActlogyOfficial\n/親友:@runrunyuto",
+                "url": "https://t.co/HtJ3sxjUBw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/HtJ3sxjUBw",
+                                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/D0R26P0LZLIY/?ref_=lol_ov_le",
+                                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3064,
+                "friends_count": 2084,
+                "listed_count": 43,
+                "created_at": "Wed Aug 21 07:30:40 +0000 2019",
+                "favourites_count": 82565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 92220,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1366632231544918016/u6ccZviv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366632231544918016/u6ccZviv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164077283373486080/1625388064",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 102,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 12:58:07 +0000 2021",
+            "id": 1409858718531932170,
+            "id_str": "1409858718531932170",
+            "text": "今日やったこと（）\nWindows11へアップデート\nWindowsをアンインストール\nWindows10インストール\nWindows11へアップデート",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1164077283373486080,
+                "id_str": "1164077283373486080",
+                "name": "Binary number",
+                "screen_name": "Binary__number",
+                "location": "ほしいのリスト↓ 買ってくれる方はDMお願いします",
+                "description": "広島の18歳の男子工業高校生です。\n日常を呟きます/C#/C/Androidアプリ/電子工作/回路設計/最近はコンパイラを作ってます\n\n/#ASRock推し / #AMD推し\n/所属:@ActlogyOfficial\n/親友:@runrunyuto",
+                "url": "https://t.co/HtJ3sxjUBw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/HtJ3sxjUBw",
+                                "expanded_url": "https://www.amazon.co.jp/hz/wishlist/ls/D0R26P0LZLIY/?ref_=lol_ov_le",
+                                "display_url": "amazon.co.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3064,
+                "friends_count": 2084,
+                "listed_count": 43,
+                "created_at": "Wed Aug 21 07:30:40 +0000 2019",
+                "favourites_count": 82565,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 92220,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1366632231544918016/u6ccZviv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366632231544918016/u6ccZviv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164077283373486080/1625388064",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 108,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 10:27:48 +0000 2021",
+            "id": 1409820893870641154,
+            "id_str": "1409820893870641154",
+            "text": "Windows11にしていいと思う？\nゲームできなくなったりしない？学校祭の動画編集とかしないといけないんだけど",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1215705325560446976,
+                "id_str": "1215705325560446976",
+                "name": "ふぉーえばーー🍭",
+                "screen_name": "Foreverrr14JY",
+                "location": "デカいうえにクソ不便で交通費クソ高い北海道",
+                "description": "スマホとかPCとかHIPHOPとかK-POPが好きな高校生です。それ以外にも超スーパーハイパーウルトラ多趣味マンなんで色々好きです",
+                "url": "https://t.co/sXR2wgmW9A",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sXR2wgmW9A",
+                                "expanded_url": "https://www.geartics.com/Foreverrr14JY",
+                                "display_url": "geartics.com/Foreverrr14JY",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1941,
+                "friends_count": 1358,
+                "listed_count": 38,
+                "created_at": "Fri Jan 10 18:41:57 +0000 2020",
+                "favourites_count": 28609,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 18479,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1367165901271797761/uOhOeW0c_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367165901271797761/uOhOeW0c_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215705325560446976/1619766910",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 13,
+            "favorite_count": 167,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 10:19:56 +0000 2021",
+            "id": 1409818912946987009,
+            "id_str": "1409818912946987009",
+            "text": "非対応のRyzen7-1800XマシンにもWindows11降ってｷﾀ━━━━(ﾟ∀ﾟ)━━━━!! https://t.co/pmTM24XLph",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1409818909578907650,
+                        "id_str": "1409818909578907650",
+                        "indices": [
+                            51,
+                            74
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5Cu1CcUUAIzR0L.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5Cu1CcUUAIzR0L.jpg",
+                        "url": "https://t.co/pmTM24XLph",
+                        "display_url": "pic.twitter.com/pmTM24XLph",
+                        "expanded_url": "https://twitter.com/fukken_z/status/1409818912946987009/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409818909578907650,
+                        "id_str": "1409818909578907650",
+                        "indices": [
+                            51,
+                            74
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5Cu1CcUUAIzR0L.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5Cu1CcUUAIzR0L.jpg",
+                        "url": "https://t.co/pmTM24XLph",
+                        "display_url": "pic.twitter.com/pmTM24XLph",
+                        "expanded_url": "https://twitter.com/fukken_z/status/1409818912946987009/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1372411118,
+                "id_str": "1372411118",
+                "name": "ふっけん",
+                "screen_name": "fukken_z",
+                "location": "大阪府",
+                "description": "Win95時代からの自作erでジャンク大好き！ ( ﾟ∀ﾟ)o彡°AMD! AMD!な元サイリッカー。Intel・AMD問わずzigsowでローエンドCPUのレビューしています(；=ﾟωﾟ)=333 最近Blog始めました。",
+                "url": "https://t.co/mQ8ucKbGTV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/mQ8ucKbGTV",
+                                "expanded_url": "http://fukkenpc.blog.jp/",
+                                "display_url": "fukkenpc.blog.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3646,
+                "friends_count": 3667,
+                "listed_count": 83,
+                "created_at": "Mon Apr 22 15:33:42 +0000 2013",
+                "favourites_count": 97163,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 133271,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1276661067817512960/xC8DzPWG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276661067817512960/xC8DzPWG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372411118/1516613761",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 24,
+            "favorite_count": 140,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 08:26:25 +0000 2021",
+            "id": 1409790346867789831,
+            "id_str": "1409790346867789831",
+            "text": "どうしてもSandy機にWindows11を入れたいワイ\n\n                                          VS\n\n               絶対に入れさせないMicrosoft",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1257877724430917632,
+                "id_str": "1257877724430917632",
+                "name": "白ロムおじさんβ®︎",
+                "screen_name": "LGA1155_mate",
+                "location": "いんすた(ユーザーネーム: @xperia_8_xz)",
+                "description": "パソコンとDIYとスマホ好きの一般的(？)な高校生。\n夜11時ぐらいから寝ます。(低浮上気味)\nSandyおじさんです()\nかっこいい兄@jzx1jzz\n\nhttps://t.co/Z1IuaFjlKj",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Z1IuaFjlKj",
+                                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3IAA98JM0SK5D?ref_=wl_share",
+                                "display_url": "amazon.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    78,
+                                    101
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 685,
+                "friends_count": 696,
+                "listed_count": 9,
+                "created_at": "Wed May 06 03:41:08 +0000 2020",
+                "favourites_count": 17606,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8604,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410933837417172998/w9drlbo8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410933837417172998/w9drlbo8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257877724430917632/1623575900",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 38,
+            "favorite_count": 336,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 07:19:25 +0000 2021",
+            "id": 1409773483584675841,
+            "id_str": "1409773483584675841",
+            "text": "#Windows11 入りました美しいですありがとうございます https://t.co/4cc9kCMnav",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1409773294107066369,
+                        "id_str": "1409773294107066369",
+                        "indices": [
+                            32,
+                            55
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5CFV3kVgAE_tbW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5CFV3kVgAE_tbW.jpg",
+                        "url": "https://t.co/4cc9kCMnav",
+                        "display_url": "pic.twitter.com/4cc9kCMnav",
+                        "expanded_url": "https://twitter.com/chomado/status/1409773483584675841/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409773294107066369,
+                        "id_str": "1409773294107066369",
+                        "indices": [
+                            32,
+                            55
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5CFV3kVgAE_tbW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5CFV3kVgAE_tbW.jpg",
+                        "url": "https://t.co/4cc9kCMnav",
+                        "display_url": "pic.twitter.com/4cc9kCMnav",
+                        "expanded_url": "https://twitter.com/chomado/status/1409773483584675841/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 949438177,
+                "id_str": "949438177",
+                "name": "ちょまど📸アイコン変えた",
+                "screen_name": "chomado",
+                "location": "Tokyo, Japan",
+                "description": "Microsoft 社員｜IT エンジニア兼マンガ家｜内閣サイバーセキュリティセンターの『ラブライブ！サンシャイン!!』コラボパンフ公式漫画描いた(2021.2)｜共著『#マンガでわかる外国人との働き方』｜女性 IT エンジニアコミュニティ #CodePolaris オーガナイザ｜腐女子｜千代田まどか｜発言は個人の見解",
+                "url": "https://t.co/u3v3roYXoA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/u3v3roYXoA",
+                                "expanded_url": "https://chomado.com/media/",
+                                "display_url": "chomado.com/media/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 83603,
+                "friends_count": 710,
+                "listed_count": 1407,
+                "created_at": "Thu Nov 15 09:59:48 +0000 2012",
+                "favourites_count": 223080,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 76378,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDBDB4",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1407677039973330944/E_lrgCrT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407677039973330944/E_lrgCrT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/949438177/1559921367",
+                "profile_link_color": "CD9D94",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 103,
+            "favorite_count": 810,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 06:03:15 +0000 2021",
+            "id": 1409754314269102093,
+            "id_str": "1409754314269102093",
+            "text": "Windows Insider Program に入って\n #Windows11 をお迎えしている！☺\n\n(Windows 11 の開発版ビルドは Windows Insider Program (の Dev チャンネル) に参加… https://t.co/45TnDPULCR",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            30,
+                            40
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/45TnDPULCR",
+                        "expanded_url": "https://twitter.com/i/web/status/1409754314269102093",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 949438177,
+                "id_str": "949438177",
+                "name": "ちょまど📸アイコン変えた",
+                "screen_name": "chomado",
+                "location": "Tokyo, Japan",
+                "description": "Microsoft 社員｜IT エンジニア兼マンガ家｜内閣サイバーセキュリティセンターの『ラブライブ！サンシャイン!!』コラボパンフ公式漫画描いた(2021.2)｜共著『#マンガでわかる外国人との働き方』｜女性 IT エンジニアコミュニティ #CodePolaris オーガナイザ｜腐女子｜千代田まどか｜発言は個人の見解",
+                "url": "https://t.co/u3v3roYXoA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/u3v3roYXoA",
+                                "expanded_url": "https://chomado.com/media/",
+                                "display_url": "chomado.com/media/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 83603,
+                "friends_count": 710,
+                "listed_count": 1407,
+                "created_at": "Thu Nov 15 09:59:48 +0000 2012",
+                "favourites_count": 223080,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 76378,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDBDB4",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1407677039973330944/E_lrgCrT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407677039973330944/E_lrgCrT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/949438177/1559921367",
+                "profile_link_color": "CD9D94",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 31,
+            "favorite_count": 164,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 03:21:44 +0000 2021",
+            "id": 1409713668766404608,
+            "id_str": "1409713668766404608",
+            "text": "M1 MacとParallelsでもWindows 11 Insider Previewが導入可能 https://t.co/ujEPH9qUY0 #Windows11 https://t.co/nZRnrFXyRp",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            74,
+                            84
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ujEPH9qUY0",
+                        "expanded_url": "https://pc.watch.impress.co.jp/docs/news/1334680.html",
+                        "display_url": "pc.watch.impress.co.jp/docs/news/1334…",
+                        "indices": [
+                            50,
+                            73
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1409713666308509700,
+                        "id_str": "1409713666308509700",
+                        "indices": [
+                            85,
+                            108
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5BPHEtVEAQRQxR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5BPHEtVEAQRQxR.jpg",
+                        "url": "https://t.co/nZRnrFXyRp",
+                        "display_url": "pic.twitter.com/nZRnrFXyRp",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409713668766404608/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409713666308509700,
+                        "id_str": "1409713666308509700",
+                        "indices": [
+                            85,
+                            108
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5BPHEtVEAQRQxR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5BPHEtVEAQRQxR.jpg",
+                        "url": "https://t.co/nZRnrFXyRp",
+                        "display_url": "pic.twitter.com/nZRnrFXyRp",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409713668766404608/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://pc.watch.impress.co.jp/\" rel=\"nofollow\">PC Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33802188,
+                "id_str": "33802188",
+                "name": "PC Watch",
+                "screen_name": "pc_watch",
+                "location": "東京都千代田区",
+                "description": "「PC Watch」の公式Twitterアカウントです。記事リンクと告知などをツイートしております。個別にお返事はできませんが、コメントは編集部一同で読ませていただきます",
+                "url": "http://t.co/xqsOvqPDAR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xqsOvqPDAR",
+                                "expanded_url": "http://pc.watch.impress.co.jp/",
+                                "display_url": "pc.watch.impress.co.jp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104483,
+                "friends_count": 46,
+                "listed_count": 4294,
+                "created_at": "Tue Apr 21 03:55:35 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51685,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3366FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33802188/1587309918",
+                "profile_link_color": "4F58FD",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 202,
+            "favorite_count": 345,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 01:50:00 +0000 2021",
+            "id": 1409690582406950919,
+            "id_str": "1409690582406950919",
+            "text": "今からWINDOWS11インストールしてみるわ\nツイートしなくなったらPCが壊れたとお考え下さい",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1457299802,
+                "id_str": "1457299802",
+                "name": "吉田",
+                "screen_name": "netatank",
+                "location": "愛知県岡崎市",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 114522,
+                "friends_count": 225,
+                "listed_count": 584,
+                "created_at": "Sat May 25 15:30:56 +0000 2013",
+                "favourites_count": 6889,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3222,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411800138067058688/GazBFNQl_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411800138067058688/GazBFNQl_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457299802/1598454238",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 65,
+            "favorite_count": 1037,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 01:47:04 +0000 2021",
+            "id": 1409689844071034882,
+            "id_str": "1409689844071034882",
+            "text": "Windows11、Windowsupdateからじゃないと入手出来ない感じ？",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 884693323268603904,
+                "id_str": "884693323268603904",
+                "name": "竹林人間🍣🍊3g+◢.aup",
+                "screen_name": "Chromium_Linux",
+                "location": "22歳までにボカロPになりたいとか考えてる",
+                "description": "デザインとか動画とかサーバーとか\nたまにIoT開発とか\n\n依頼→ info@otintin.world\n\nヘッダー作ってくれた人→@Chromium_Linux",
+                "url": "https://t.co/14Uetx6IJa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/14Uetx6IJa",
+                                "expanded_url": "https://line.me/R/ti/p/%40hwh0941n",
+                                "display_url": "line.me/R/ti/p/%40hwh0…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7107,
+                "friends_count": 2327,
+                "listed_count": 150,
+                "created_at": "Tue Jul 11 08:38:19 +0000 2017",
+                "favourites_count": 289053,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 73841,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377664631334821897/-Bo7PyEL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/884693323268603904/1617694067",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 114,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 01:03:27 +0000 2021",
+            "id": 1409678866608656385,
+            "id_str": "1409678866608656385",
+            "text": "Windows 11対応可否を知らせる「PC正常性チェック」が一時撤回 https://t.co/pjYPnsE5i5 #Windows11 https://t.co/oQNAotPXKN",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            60,
+                            70
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pjYPnsE5i5",
+                        "expanded_url": "https://pc.watch.impress.co.jp/docs/news/1334630.html",
+                        "display_url": "pc.watch.impress.co.jp/docs/news/1334…",
+                        "indices": [
+                            36,
+                            59
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1409678864821800960,
+                        "id_str": "1409678864821800960",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5AvdXEUUAAx1n2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5AvdXEUUAAx1n2.jpg",
+                        "url": "https://t.co/oQNAotPXKN",
+                        "display_url": "pic.twitter.com/oQNAotPXKN",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409678866608656385/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 799,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 679,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 799,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409678864821800960,
+                        "id_str": "1409678864821800960",
+                        "indices": [
+                            71,
+                            94
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5AvdXEUUAAx1n2.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5AvdXEUUAAx1n2.jpg",
+                        "url": "https://t.co/oQNAotPXKN",
+                        "display_url": "pic.twitter.com/oQNAotPXKN",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409678866608656385/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 799,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 679,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 799,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://pc.watch.impress.co.jp/\" rel=\"nofollow\">PC Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33802188,
+                "id_str": "33802188",
+                "name": "PC Watch",
+                "screen_name": "pc_watch",
+                "location": "東京都千代田区",
+                "description": "「PC Watch」の公式Twitterアカウントです。記事リンクと告知などをツイートしております。個別にお返事はできませんが、コメントは編集部一同で読ませていただきます",
+                "url": "http://t.co/xqsOvqPDAR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xqsOvqPDAR",
+                                "expanded_url": "http://pc.watch.impress.co.jp/",
+                                "display_url": "pc.watch.impress.co.jp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104483,
+                "friends_count": 46,
+                "listed_count": 4294,
+                "created_at": "Tue Apr 21 03:55:35 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51685,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3366FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33802188/1587309918",
+                "profile_link_color": "4F58FD",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 515,
+            "favorite_count": 584,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jun 29 00:49:22 +0000 2021",
+            "id": 1409675324271456266,
+            "id_str": "1409675324271456266",
+            "text": "Windows 11の最小システム要件が緩和、第7世代Core/Zen 1のRyzenも対象に https://t.co/66vCHp4OgE #Windows11 https://t.co/Wuf6x5pVO1",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Windows11",
+                        "indices": [
+                            72,
+                            82
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/66vCHp4OgE",
+                        "expanded_url": "https://pc.watch.impress.co.jp/docs/news/1334629.html",
+                        "display_url": "pc.watch.impress.co.jp/docs/news/1334…",
+                        "indices": [
+                            48,
+                            71
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1409675322157502466,
+                        "id_str": "1409675322157502466",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5AsPJnVEAIXWW7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5AsPJnVEAIXWW7.jpg",
+                        "url": "https://t.co/Wuf6x5pVO1",
+                        "display_url": "pic.twitter.com/Wuf6x5pVO1",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409675324271456266/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1409675322157502466,
+                        "id_str": "1409675322157502466",
+                        "indices": [
+                            83,
+                            106
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5AsPJnVEAIXWW7.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5AsPJnVEAIXWW7.jpg",
+                        "url": "https://t.co/Wuf6x5pVO1",
+                        "display_url": "pic.twitter.com/Wuf6x5pVO1",
+                        "expanded_url": "https://twitter.com/pc_watch/status/1409675324271456266/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://pc.watch.impress.co.jp/\" rel=\"nofollow\">PC Watch</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33802188,
+                "id_str": "33802188",
+                "name": "PC Watch",
+                "screen_name": "pc_watch",
+                "location": "東京都千代田区",
+                "description": "「PC Watch」の公式Twitterアカウントです。記事リンクと告知などをツイートしております。個別にお返事はできませんが、コメントは編集部一同で読ませていただきます",
+                "url": "http://t.co/xqsOvqPDAR",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/xqsOvqPDAR",
+                                "expanded_url": "http://pc.watch.impress.co.jp/",
+                                "display_url": "pc.watch.impress.co.jp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 104483,
+                "friends_count": 46,
+                "listed_count": 4294,
+                "created_at": "Tue Apr 21 03:55:35 +0000 2009",
+                "favourites_count": 21,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51685,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3366FF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410228249225924615/_DNMtCmG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33802188/1587309918",
+                "profile_link_color": "4F58FD",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1072,
+            "favorite_count": 1282,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        }
+    ]
+}
