@@ -1,0 +1,2952 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Thu Jul 08 06:35:59 +0000 2021",
+            "id": 1413024042852917250,
+            "id_str": "1413024042852917250",
+            "text": "CSS、奥深すぎん？？？\nJavaScript、楽しいけど難しすぎん？？？\n\nでも将来楽するためには今頑張りたいな〜って感じ🙃\n\n#ドットインストール \n#web制作 \n#駆け出しエンジニアと繋がりたい",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ドットインストール",
+                        "indices": [
+                            65,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "web制作",
+                        "indices": [
+                            77,
+                            83
+                        ]
+                    },
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            85,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1331253018151424001,
+                "id_str": "1331253018151424001",
+                "name": "み　あ",
+                "screen_name": "__miiiann__",
+                "location": "日本 神奈川",
+                "description": "大学2年生Ⅰ#24卒Ⅰ #プログラミング初心者🔆 Ⅰ 文系Ⅰ ITベンチャーで長期インターン Ⅰプログラミング初心者繋がりたいです‼︎ 勉強方法とかプログラミングの知識とか共有したい👻 勧誘🙅‍♀️",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 559,
+                "friends_count": 591,
+                "listed_count": 3,
+                "created_at": "Tue Nov 24 15:07:35 +0000 2020",
+                "favourites_count": 364,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 121,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1331253930643267585/ky-ukvuI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331253930643267585/ky-ukvuI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1331253018151424001/1608565212",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 172,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 08 00:03:02 +0000 2021",
+            "id": 1412925156490502146,
+            "id_str": "1412925156490502146",
+            "text": "これは意外に知られていない事なんですが、JavaはJavaScriptではないんです。\n#しんじろう",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "しんじろう",
+                        "indices": [
+                            44,
+                            50
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1214715484630704128,
+                "id_str": "1214715484630704128",
+                "name": "たぁしい@月商100兆円炎児にあ",
+                "screen_name": "tashy6666",
+                "location": "ジオン公国",
+                "description": "趣味はカフェと雑貨屋さん巡りです。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2813,
+                "friends_count": 1460,
+                "listed_count": 17,
+                "created_at": "Wed Jan 08 01:08:48 +0000 2020",
+                "favourites_count": 43080,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17436,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1404345480411189248/5uyQeCXg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404345480411189248/5uyQeCXg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1214715484630704128/1616860264",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 157,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 07 16:22:55 +0000 2021",
+            "id": 1412809361244647427,
+            "id_str": "1412809361244647427",
+            "text": "週20時間程度の稼働時間のエンジニアを探している会社さんを探しています。\n主にPHPとかJavaScriptが書けます。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 774082398225063936,
+                "id_str": "774082398225063936",
+                "name": "たべたつ",
+                "screen_name": "ttabtt3",
+                "location": "",
+                "description": "癌治療をした 頑張らない会社員 魚が好き SW-4099-3258-4309 https://t.co/m7uNVMSfv5 https://t.co/9bjXXNqPDy",
+                "url": "https://t.co/dbLQ3CXy3f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dbLQ3CXy3f",
+                                "expanded_url": "https://www.tabtt.net",
+                                "display_url": "tabtt.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/m7uNVMSfv5",
+                                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2ZJ0HPZASJODQ?ref_=wl_share",
+                                "display_url": "amazon.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    39,
+                                    62
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/9bjXXNqPDy",
+                                "expanded_url": "http://discord.gg/GeqjrNmQ",
+                                "display_url": "discord.gg/GeqjrNmQ",
+                                "indices": [
+                                    63,
+                                    86
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 8516,
+                "friends_count": 9287,
+                "listed_count": 52,
+                "created_at": "Fri Sep 09 03:10:00 +0000 2016",
+                "favourites_count": 80579,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 72516,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1378766091594309634/6w051w94_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378766091594309634/6w051w94_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/774082398225063936/1576771151",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 40,
+            "favorite_count": 154,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 07 13:44:11 +0000 2021",
+            "id": 1412769416895365121,
+            "id_str": "1412769416895365121",
+            "text": "JavaScript入れると重くなるし今は大体のことはCSSでできるから覚えなくていいよって言われたんですけど本当ですか、、、？\n#駆け出しエンジニアと繋がりたい \n#Progate \n#webデザイン勉強中",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            65,
+                            81
+                        ]
+                    },
+                    {
+                        "text": "Progate",
+                        "indices": [
+                            83,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "webデザイン勉強中",
+                        "indices": [
+                            93,
+                            104
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1412339048459370498,
+                "id_str": "1412339048459370498",
+                "name": "びすこ@元ヒキニート🔰ウェブデザイナー",
+                "screen_name": "bisuko_oxo",
+                "location": "",
+                "description": "元ヒキニート⚡webデザイン職業訓練校卒業後４年ぶりの社会人🌸webマーケティング、ウェブデザイン勉強中🔰",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 100,
+                "friends_count": 125,
+                "listed_count": 1,
+                "created_at": "Tue Jul 06 09:14:29 +0000 2021",
+                "favourites_count": 376,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 48,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412355368462684160/fowTXJS0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412355368462684160/fowTXJS0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412339048459370498/1625659159",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 163,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 07 10:45:10 +0000 2021",
+            "id": 1412724366631063553,
+            "id_str": "1412724366631063553",
+            "text": "VueとかReactのフレームワークが難しくて分からないって人は基礎のJavaScriptが分かってないからっしょ！笑\nって私の中のギャルが言ってました",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1009749912735526912,
+                "id_str": "1009749912735526912",
+                "name": "にこ",
+                "screen_name": "Rorome15Nikomu",
+                "location": "埼玉",
+                "description": "仁子です。フロントエンドエンジニアのアラサーです。3年目。今年こそ英語ペラペラ&プリケツになる。リトルトゥース。JavaScriptを愛し、JavaScriptに愛された女！になりたい！！勧誘DM不要！",
+                "url": "https://t.co/zyif0OBqFN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zyif0OBqFN",
+                                "expanded_url": "https://qiita.com/ksuzu",
+                                "display_url": "qiita.com/ksuzu",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3842,
+                "friends_count": 949,
+                "listed_count": 35,
+                "created_at": "Thu Jun 21 10:48:34 +0000 2018",
+                "favourites_count": 12683,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6214,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1299598556521590789/VBcoL3Jp_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299598556521590789/VBcoL3Jp_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009749912735526912/1567324498",
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 17,
+            "favorite_count": 223,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 07 09:20:45 +0000 2021",
+            "id": 1412703119834636288,
+            "id_str": "1412703119834636288",
+            "text": "文系パソコン初心者の自分が約半年でできるようになったこと。\n・HTML/CSS\n・Git\n・DB設計/SQL\n・PHP/Laravel\n・タイピング\n・Javascript\n#駆け出しエンジニアと繋がりたい \n#プログラミング初学者と繋がりたい",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            87,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初学者と繋がりたい",
+                        "indices": [
+                            105,
+                            122
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 897735960930037760,
+                "id_str": "897735960930037760",
+                "name": "きょな＠WEB学習中",
+                "screen_name": "kyonamn",
+                "location": "福岡",
+                "description": "【エンジニアにとって必須なスキル役に立つ情報を提供しています】コロナの影響で大学中退→2020.11.20～ プログラミング学習開始→倍率15倍のスクールのWebテストを受けて合格。今年22歳。 挫折率90%のプログラミングを僕と一緒に積み上げませんか？？ 【一言くれたらフォロバしてます】",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 422,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Wed Aug 16 08:25:07 +0000 2017",
+                "favourites_count": 8917,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 270,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1330171878762229761/1PIDzIfH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330171878762229761/1PIDzIfH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/897735960930037760/1598853708",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 153,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 23:31:18 +0000 2021",
+            "id": 1412554782137483267,
+            "id_str": "1412554782137483267",
+            "text": "UdemyのJavaScript全然理解できない😂\n私には早すぎたな🤔\nでもこれはいずれやるつもりで買ったやつだから大丈夫🙆‍♀️✨\n\n昨日買ったHTML&amp;CSSの本(多分1番人気のやつ)今からやるよ！\n\n#駆け出しエンジニアと繋がりたい",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            107,
+                            123
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1411566897112313864,
+                "id_str": "1411566897112313864",
+                "name": "スヤちゃん@駆け出しエンジニアになりたい",
+                "screen_name": "_suyachan",
+                "location": "",
+                "description": "未経験からフロントエンドエンジニアになりたくてプログラミング始めました！今はアパレル販売員をしながら隙間時間にProgate学習中💻✏️😠Twitterの素晴らしい方々を参考にさせていただいてます🙇‍♀️Twitterを通してたくさんの方々と繋がりたいです😊✨川口春奈ちゃん推しです💕",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 449,
+                "friends_count": 69,
+                "listed_count": 0,
+                "created_at": "Sun Jul 04 06:05:58 +0000 2021",
+                "favourites_count": 102,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 111,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411567175605788672/f6WiKDmq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411567175605788672/f6WiKDmq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411566897112313864/1625379088",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 173,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 14:02:41 +0000 2021",
+            "id": 1412411683121815558,
+            "id_str": "1412411683121815558",
+            "text": "JavaScript、プロゲートよりもっと体系的に学べる何かないかな。この技はいつ使うかってのを理解しながら学びたいんだよね。\n #Progate \n #ドットインストール\n #プログラミング初心者",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Progate",
+                        "indices": [
+                            65,
+                            73
+                        ]
+                    },
+                    {
+                        "text": "ドットインストール",
+                        "indices": [
+                            76,
+                            86
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            88,
+                            99
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1409123865767251968,
+                "id_str": "1409123865767251968",
+                "name": "まつこさん@WEB制作初心者",
+                "screen_name": "mtkchan__",
+                "location": "",
+                "description": "WEB制作勉強アカウント💻2021/04/20～HTML&CSS独学スタート。勧誘・情報商材系🆖筋トレとお料理が好き。1才男の子ママ👦🏻",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 70,
+                "friends_count": 27,
+                "listed_count": 0,
+                "created_at": "Sun Jun 27 12:18:22 +0000 2021",
+                "favourites_count": 40,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 44,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1409124619332714506/jTZD1SdX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409124619332714506/jTZD1SdX_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 200,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 11:36:02 +0000 2021",
+            "id": 1412374779315863555,
+            "id_str": "1412374779315863555",
+            "text": "プログラミングを学び始めた時、楽しかった。HTMLを初めて打った時、文字が出てきて嬉しかった。JavaScriptで、フワッと動く様になった時、感動した。Snowmonkeyで事業サイト作った時、ワクワクした。初案件をもらった時、… https://t.co/YqURz3VITB",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YqURz3VITB",
+                        "expanded_url": "https://twitter.com/i/web/status/1412374779315863555",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1357116159737274368,
+                "id_str": "1357116159737274368",
+                "name": "あや🌸WEB営業×ディレクター",
+                "screen_name": "ayaice122105",
+                "location": "【WEB営業と成果が出る手法】について発信🌿",
+                "description": "【マーケ×ディレ×営業🌈】｜19歳で上場企業西日本営業1位▶︎大学首席▶︎npo法人代表▶︎EC事業立ち上げ・運用▶︎web制作フリーランス🌷｜ヨガアンバサダー🌿｜営業初めて4日で8件契約▶︎営業活動9日で初月172万▶︎2ヶ月目12件430万なう👼｜やりたいこと全部やる為に頑張ってます😌",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4179,
+                "friends_count": 205,
+                "listed_count": 23,
+                "created_at": "Wed Feb 03 23:58:13 +0000 2021",
+                "favourites_count": 41052,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4820,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1413049191031402501/vrr6demv_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413049191031402501/vrr6demv_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357116159737274368/1625728484",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 336,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 10:26:48 +0000 2021",
+            "id": 1412357355228995585,
+            "id_str": "1412357355228995585",
+            "text": "この動画の注目ポイント:\n・脆弱性はXSSだけでクレジットカード情報漏えいに至る\n・サイト側でカード情報は保持していない\n・非保持タイプのJavaScript型決済（最近の主流）でも防げない\n・管理画面にIPアドレス制限していても… https://t.co/rtau4qRgK8",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rtau4qRgK8",
+                        "expanded_url": "https://twitter.com/i/web/status/1412357355228995585",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 5596942,
+                "id_str": "5596942",
+                "name": "徳丸 浩",
+                "screen_name": "ockeghem",
+                "location": "東京都",
+                "description": "徳丸本の中の人 OWASP Japanアドバイザリーボード EGセキュアソリューションズ代表 株式会社グレスアベイル取締役 IPA非常勤職員\nYouTubeチャンネル: 徳丸浩のウェブセキュリティ講座 https://t.co/F4nhi85N8W",
+                "url": "https://t.co/u6ROydVIco",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/u6ROydVIco",
+                                "expanded_url": "http://blog.tokumaru.org/",
+                                "display_url": "blog.tokumaru.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/F4nhi85N8W",
+                                "expanded_url": "https://j.mp/web-sec-study",
+                                "display_url": "j.mp/web-sec-study",
+                                "indices": [
+                                    101,
+                                    124
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 38105,
+                "friends_count": 1492,
+                "listed_count": 1366,
+                "created_at": "Sat Apr 28 14:09:06 +0000 2007",
+                "favourites_count": 11078,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 50278,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1145842213844209664/aJlSMLuo_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145842213844209664/aJlSMLuo_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5596942/1398208109",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "87BC44",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1412308005480132608,
+            "quoted_status_id_str": "1412308005480132608",
+            "quoted_status": {
+                "created_at": "Tue Jul 06 07:10:42 +0000 2021",
+                "id": 1412308005480132608,
+                "id_str": "1412308005480132608",
+                "text": "JPCERT/CCからECサイトに対するXSS攻撃に関する注意喚起と詳しい手口の公表がありましたが、攻撃の原理についてはこちらの動画をどうぞ（デモあり）\n『管理画面に対するXSS攻撃でクレジットカード情報を盗む手口』\n完全版:… https://t.co/h6BjKS4qlI",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/h6BjKS4qlI",
+                            "expanded_url": "https://twitter.com/i/web/status/1412308005480132608",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "ja",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 5596942,
+                    "id_str": "5596942",
+                    "name": "徳丸 浩",
+                    "screen_name": "ockeghem",
+                    "location": "東京都",
+                    "description": "徳丸本の中の人 OWASP Japanアドバイザリーボード EGセキュアソリューションズ代表 株式会社グレスアベイル取締役 IPA非常勤職員\nYouTubeチャンネル: 徳丸浩のウェブセキュリティ講座 https://t.co/F4nhi85N8W",
+                    "url": "https://t.co/u6ROydVIco",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/u6ROydVIco",
+                                    "expanded_url": "http://blog.tokumaru.org/",
+                                    "display_url": "blog.tokumaru.org",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/F4nhi85N8W",
+                                    "expanded_url": "https://j.mp/web-sec-study",
+                                    "display_url": "j.mp/web-sec-study",
+                                    "indices": [
+                                        101,
+                                        124
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 38105,
+                    "friends_count": 1492,
+                    "listed_count": 1366,
+                    "created_at": "Sat Apr 28 14:09:06 +0000 2007",
+                    "favourites_count": 11078,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 50278,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "9AE4E8",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145842213844209664/aJlSMLuo_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145842213844209664/aJlSMLuo_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/5596942/1398208109",
+                    "profile_link_color": "0000FF",
+                    "profile_sidebar_border_color": "87BC44",
+                    "profile_sidebar_fill_color": "E0FF92",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 135,
+                "favorite_count": 366,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ja"
+            },
+            "retweet_count": 165,
+            "favorite_count": 459,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 09:06:02 +0000 2021",
+            "id": 1412337030156128257,
+            "id_str": "1412337030156128257",
+            "text": "JavaScriptとかPHPで詰まって諦めてしまうのはもったいない\n\nまず普通のWeb制作だとほとんど使いません\n最初は基礎だけ理解しておけば十分です\n\nJavaScriptはほぼjQueryを使うし\nPHPはWordPress… https://t.co/ApupXYIYZh",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ApupXYIYZh",
+                        "expanded_url": "https://twitter.com/i/web/status/1412337030156128257",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1131886573509677057,
+                "id_str": "1131886573509677057",
+                "name": "しめじ＠WEB制作フリーランス",
+                "screen_name": "simeji_pro",
+                "location": "👇【成果報告多数】有益なブログとラジオを無料で公開中！！",
+                "description": "【Web制作をきっかけに自由になる方法を発信するキノコ】最高月収180万、平均月収100万超。Web制作フリーランスとしての労働は1日2〜3時間のみ。Twitter運用して3ヶ月でフォロワーさん8700人増。150人以上の正しい方向性をコンサル。「より良い人生を生きる人を増やす」が理念。努力と行動で人生は変えられます。",
+                "url": "https://t.co/RtOBFN0Fmn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RtOBFN0Fmn",
+                                "expanded_url": "https://simelog.com/",
+                                "display_url": "simelog.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17299,
+                "friends_count": 324,
+                "listed_count": 182,
+                "created_at": "Fri May 24 11:36:03 +0000 2019",
+                "favourites_count": 51828,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 26929,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1377546930910208005/B65Uuh1D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377546930910208005/B65Uuh1D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131886573509677057/1613429185",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 159,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 05:47:15 +0000 2021",
+            "id": 1412287004935548929,
+            "id_str": "1412287004935548929",
+            "text": "Web系エンジニアは「Webサービス」とか「Webアプリ」を作る人やからJavaは必須の領域やろうし\nWebデザイナーでもJavaScriptは必須スキルじゃないの、\nと思ってるので\n\n「JavaもJavaScriptも分からんか… https://t.co/yQGi5Ijuyf",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/yQGi5Ijuyf",
+                        "expanded_url": "https://twitter.com/i/web/status/1412287004935548929",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1412286103973814276,
+            "in_reply_to_status_id_str": "1412286103973814276",
+            "in_reply_to_user_id": 82752855,
+            "in_reply_to_user_id_str": "82752855",
+            "in_reply_to_screen_name": "yontengoP",
+            "user": {
+                "id": 82752855,
+                "id_str": "82752855",
+                "name": "よんてんごP",
+                "screen_name": "yontengoP",
+                "location": "",
+                "description": "ベーチェット病と痔瘻という難病に侵されたナプキンを付けた社畜です。優しく 接してあげて下さい。尻穴方面/IT方面/社畜方面/下ネタ方面のツイートが多い ですが、病気なので許してあげて下さい(傲慢)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 55517,
+                "friends_count": 3322,
+                "listed_count": 1092,
+                "created_at": "Fri Oct 16 00:23:34 +0000 2009",
+                "favourites_count": 12519,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 145210,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1271330602000646146/Th9IXwEz_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271330602000646146/Th9IXwEz_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 35,
+            "favorite_count": 153,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 05:40:55 +0000 2021",
+            "id": 1412285409443287041,
+            "id_str": "1412285409443287041",
+            "text": "JavaとかJavaScriptとか勉強したけど全然分からないんで\nHTMLとかCSSだけに絞って将来はWeb系エンジニアとして働くことにします！\nって話を聞いて、色々どうしたものかしらと思っている🤔",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 82752855,
+                "id_str": "82752855",
+                "name": "よんてんごP",
+                "screen_name": "yontengoP",
+                "location": "",
+                "description": "ベーチェット病と痔瘻という難病に侵されたナプキンを付けた社畜です。優しく 接してあげて下さい。尻穴方面/IT方面/社畜方面/下ネタ方面のツイートが多い ですが、病気なので許してあげて下さい(傲慢)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 55517,
+                "friends_count": 3322,
+                "listed_count": 1092,
+                "created_at": "Fri Oct 16 00:23:34 +0000 2009",
+                "favourites_count": 12519,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 145210,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1271330602000646146/Th9IXwEz_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271330602000646146/Th9IXwEz_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 216,
+            "favorite_count": 902,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 06 05:40:23 +0000 2021",
+            "id": 1412285274990669824,
+            "id_str": "1412285274990669824",
+            "text": "JavaScriptの質問は任せて！その代わりWebデザイン(HTML&amp;CSS)で詰まったとき教えて！🥺\nってなれるように頑張りたい！\n\nこういうパートナーが欲しいです！\n一緒に頑張れる方と情報交換、問題解決していきたいです！… https://t.co/ZvwzdfuW0M",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZvwzdfuW0M",
+                        "expanded_url": "https://twitter.com/i/web/status/1412285274990669824",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            119,
+                            142
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1410853217102045184,
+                "id_str": "1410853217102045184",
+                "name": "runa@Web開発🔰",
+                "screen_name": "runa08718388",
+                "location": "",
+                "description": "20歳前半 | Progate無課金 ☞ JavaScriptを始めDOMを学習 ☞ 簡単な機能を作る ☞ Node.jsを学習中(サーバーサイドを極める) ←今ここ | OS環境Windows/Kubuntu | 作業環境Vim/VSCode | discord: runa#1516 | Webエンジニア志望",
+                "url": "https://t.co/Kmb69Dvu2l",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Kmb69Dvu2l",
+                                "expanded_url": "https://github.com/runa-g",
+                                "display_url": "github.com/runa-g",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 57,
+                "friends_count": 9,
+                "listed_count": 1,
+                "created_at": "Fri Jul 02 06:51:23 +0000 2021",
+                "favourites_count": 243,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 131,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410860670036238336/MPMjjpU2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410860670036238336/MPMjjpU2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410853217102045184/1625471763",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 127,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 05 14:53:03 +0000 2021",
+            "id": 1412061972531580928,
+            "id_str": "1412061972531580928",
+            "text": "JavaScriptの勉強を始めました\nHTML/CSSとは違い難しい…\n心は折れませんが時間がかかりそう😞\n\n#駆け出しエンジニアと繋がりたい\n#プログラミング勉強中\n#プログラミング初心者\n#Web制作\n#webデザイン… https://t.co/hCntZ07vq1",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            56,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "プログラミング勉強中",
+                        "indices": [
+                            73,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            85,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "Web制作",
+                        "indices": [
+                            97,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "webデザイン",
+                        "indices": [
+                            104,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/hCntZ07vq1",
+                        "expanded_url": "https://twitter.com/i/web/status/1412061972531580928",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1384677824531820545,
+                "id_str": "1384677824531820545",
+                "name": "ミワちゃん",
+                "screen_name": "miwachan_sap",
+                "location": "",
+                "description": "アラサー会社員👩‍💼ノマドワーカーフリーランス目指し中✨ プログラミング勉強中/資産運用/投資/仮想通貨/美容/メイク/整形/ダイエット QOL上げて自分ウケを目指したい💫酒好き＊楽天経済圏",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 124,
+                "friends_count": 415,
+                "listed_count": 0,
+                "created_at": "Wed Apr 21 01:22:31 +0000 2021",
+                "favourites_count": 52,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 44,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1398099312920252417/zbo5uFfA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398099312920252417/zbo5uFfA_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 198,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 05 10:15:41 +0000 2021",
+            "id": 1411992171134156805,
+            "id_str": "1411992171134156805",
+            "text": "JavaScriptでファイルアクセスやセンサーなどを扱えるようにするウェブ技術が進んでいますが、Firefoxの方針が興味深く、それがまとまっています。\n\n「ユーザの同意に頼ることは十分な安全策ではない」とのことで、Firefo… https://t.co/OA1q5kFH1W",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/OA1q5kFH1W",
+                        "expanded_url": "https://twitter.com/i/web/status/1411992171134156805",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3761581,
+                "id_str": "3761581",
+                "name": "池田 泰延 / IKEDA Yasunobu",
+                "screen_name": "clockmaker",
+                "location": "",
+                "description": "ウェブ業界の最新情報をいち早くお届け。現場で役立つHTML/CSS/JSやデザインツールの小技も発信中。15年ほどUIデザインとフロントエンド開発を担当。3D表現とクリエイティブコーディングを得意としています。ウェブ制作会社ICS代表。",
+                "url": "https://t.co/sS1TjsFtjJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sS1TjsFtjJ",
+                                "expanded_url": "https://ics.media/entry/staff/ikeda/",
+                                "display_url": "ics.media/entry/staff/ik…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 18592,
+                "friends_count": 994,
+                "listed_count": 650,
+                "created_at": "Sun Apr 08 05:01:31 +0000 2007",
+                "favourites_count": 19691,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 28431,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/807572328842334208/yKjouEr4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/807572328842334208/yKjouEr4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3761581/1436801868",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "9E9E9E",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 96,
+            "favorite_count": 341,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 05 09:38:25 +0000 2021",
+            "id": 1411982791101747213,
+            "id_str": "1411982791101747213",
+            "text": "JavaScript、日本語使えるけど止めたほうがいい理由 https://t.co/wu2z9PNOjb",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1411982788459339777,
+                        "id_str": "1411982788459339777",
+                        "indices": [
+                            30,
+                            53
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5he3XcVoAExmwi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5he3XcVoAExmwi.jpg",
+                        "url": "https://t.co/wu2z9PNOjb",
+                        "display_url": "pic.twitter.com/wu2z9PNOjb",
+                        "expanded_url": "https://twitter.com/Pythonist19/status/1411982791101747213/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 516,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 820,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 820,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1411982788459339777,
+                        "id_str": "1411982788459339777",
+                        "indices": [
+                            30,
+                            53
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5he3XcVoAExmwi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5he3XcVoAExmwi.jpg",
+                        "url": "https://t.co/wu2z9PNOjb",
+                        "display_url": "pic.twitter.com/wu2z9PNOjb",
+                        "expanded_url": "https://twitter.com/Pythonist19/status/1411982791101747213/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 516,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1080,
+                                "h": 820,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 820,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1268751606893260807,
+                "id_str": "1268751606893260807",
+                "name": "おばあちゃんのプログラミング教室（ばあプロ）【旧式】",
+                "screen_name": "Pythonist19",
+                "location": "東京 新宿区",
+                "description": "10年間の開発と5年間の新人教育の経験を活かしやさしく解説。初学者向けにWeb制作の歩き方（https://t.co/VsjwBebnZr）公開。　\nお気に入りエディタはMery。Python, PHP, HTML, MySQL, ラズパイ。Vueが好き。MBAほるだぁ。エンジニア兼Webマーケ。DM見ないぞい",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VsjwBebnZr",
+                                "expanded_url": "http://www.baapuro.com",
+                                "display_url": "baapuro.com",
+                                "indices": [
+                                    46,
+                                    69
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 19988,
+                "friends_count": 16797,
+                "listed_count": 92,
+                "created_at": "Fri Jun 05 03:49:03 +0000 2020",
+                "favourites_count": 52070,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 31558,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1373400048462045185/x5L1G8Uw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373400048462045185/x5L1G8Uw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268751606893260807/1591340962",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 37,
+            "favorite_count": 306,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 05 09:00:02 +0000 2021",
+            "id": 1411973132303302659,
+            "id_str": "1411973132303302659",
+            "text": "WEB制作初学者の最初の難関はおそらくJavaScriptやjQueryだと思う。が、ここでつまづくのは正直お門違い。実際のサイト制作ではHTMLとCSSが9割以上を占め、jQueryなんて少ししか使わない。しかもほぼサイト上のコ… https://t.co/Tr7keH5yjG",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Tr7keH5yjG",
+                        "expanded_url": "https://twitter.com/i/web/status/1411973132303302659",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1322294469983563776,
+                "id_str": "1322294469983563776",
+                "name": "みやびー@週休０エンジニア",
+                "screen_name": "MIYABI_WCS",
+                "location": "日本",
+                "description": "子育て・プラント系エンジニア・WEB制作の3つにコミット｜自身の成長記録を発信します｜職歴：エンジニア歴20年・3度の転職・上流設計から現場調整までデキる何でも屋さん・200時間残業経験・現在はマネジメント（人材・タスク・時間・経営）業務に集中｜推奨：朝活・ウォーキング・定時退社｜嫌い：定時間労働・通勤・ぶら下がり社員",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 96,
+                "friends_count": 40,
+                "listed_count": 4,
+                "created_at": "Fri Oct 30 21:50:28 +0000 2020",
+                "favourites_count": 2840,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 322,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1406511776003395584/-gazZdSK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406511776003395584/-gazZdSK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322294469983563776/1620990661",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 112,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 23:30:47 +0000 2021",
+            "id": 1411829873518120963,
+            "id_str": "1411829873518120963",
+            "text": "javascript難しすぎる。\nでもあきらめないわ、見ててねまどかっ\n\n#プログラミング初心者と繋がりたい \n#プログラミング初心者 \n#Progate",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "プログラミング初心者と繋がりたい",
+                        "indices": [
+                            37,
+                            54
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            56,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "Progate",
+                        "indices": [
+                            69,
+                            77
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1411519144533524484,
+                "id_str": "1411519144533524484",
+                "name": "暁美ほむら",
+                "screen_name": "akemi_honura",
+                "location": "",
+                "description": "暁美ほむらよ。プログラミング始めたわ。よろしく。気軽にフォローしてね。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 118,
+                "friends_count": 119,
+                "listed_count": 0,
+                "created_at": "Sun Jul 04 02:56:15 +0000 2021",
+                "favourites_count": 141,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 70,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411519391108198404/4mzu0KaW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411519391108198404/4mzu0KaW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411519144533524484/1625367510",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 150,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 09:22:28 +0000 2021",
+            "id": 1411616387907264514,
+            "id_str": "1411616387907264514",
+            "text": "なるほど、HTMLとCSSだけではなくJavaScriptというものも取得しないといけないんですね！\nしかもこちらはHTMLとCSSよりも難しいらしい😳\n道は長く険しい🗻🏃‍♀️🔥\n\n#駆け出しエンジニアと繋がりたい",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            92,
+                            108
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1411566897112313864,
+                "id_str": "1411566897112313864",
+                "name": "スヤちゃん@駆け出しエンジニアになりたい",
+                "screen_name": "_suyachan",
+                "location": "",
+                "description": "未経験からフロントエンドエンジニアになりたくてプログラミング始めました！今はアパレル販売員をしながら隙間時間にProgate学習中💻✏️😠Twitterの素晴らしい方々を参考にさせていただいてます🙇‍♀️Twitterを通してたくさんの方々と繋がりたいです😊✨川口春奈ちゃん推しです💕",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 449,
+                "friends_count": 69,
+                "listed_count": 0,
+                "created_at": "Sun Jul 04 06:05:58 +0000 2021",
+                "favourites_count": 102,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 111,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411567175605788672/f6WiKDmq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411567175605788672/f6WiKDmq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411566897112313864/1625379088",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 123,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 01:52:19 +0000 2021",
+            "id": 1411503107259846656,
+            "id_str": "1411503107259846656",
+            "text": "今日は Progate で JavaScript を勉強します！\n\n#駆け出しエンジニアと繋がりたい\n#プログラミング初心者\n#Progate",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            34,
+                            50
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            51,
+                            62
+                        ]
+                    },
+                    {
+                        "text": "Progate",
+                        "indices": [
+                            63,
+                            71
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1342667773445513217,
+                "id_str": "1342667773445513217",
+                "name": "にーつ＠駆け出しエンジニア",
+                "screen_name": "neeets13",
+                "location": "Japan",
+                "description": "20代後半フリーター 未経験からGAFAフリーランスエンジニアを目指す👨‍💻 2021/06~ プログラミング💻/筋トレ💪/コーヒー☕️/HTML/CSS/JavaScript/Python #プログラミング初心者 #駆け出しエンジニアと繋がりたい #自己分析 #マインドセット #自由な生き方 #Progate",
+                "url": "https://t.co/KUHgtKY0eX",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KUHgtKY0eX",
+                                "expanded_url": "https://github.com/neets13",
+                                "display_url": "github.com/neets13",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 185,
+                "friends_count": 176,
+                "listed_count": 0,
+                "created_at": "Sat Dec 26 03:05:27 +0000 2020",
+                "favourites_count": 214,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 154,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1403520623373025282/UZSZUKAE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403520623373025282/UZSZUKAE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342667773445513217/1623488510",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 118,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 01:00:52 +0000 2021",
+            "id": 1411490158927486977,
+            "id_str": "1411490158927486977",
+            "text": "JavaScriptを学ぶのであれば最初はドットインストールがおすすめ。ミニアプリを何個か開発しながら『動的な動き』を学べる。特にスロットマシーン開発は重要要素が多く学べる。\n\n#駆け出しエンジニアと繋がりたい… https://t.co/CTlqDYIxqh",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            89,
+                            105
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/CTlqDYIxqh",
+                        "expanded_url": "https://twitter.com/i/web/status/1411490158927486977",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            107,
+                            130
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1249117291515543552,
+                "id_str": "1249117291515543552",
+                "name": "スタバでMacを開くエンジニア",
+                "screen_name": "MacopeninSUTABA",
+                "location": "ネタ系なので許してくれ",
+                "description": "【ネタ系×渋谷のエンジニア】独学 ▶︎ 学生フリーランス ▶︎ 自社開発(フロント) | 月間500万インプ | TikTok4.5万 | React×TypeScript×Next.js | 【朝活】×【図解】×【プログラミング情報】×【ネタ系】を発信。",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8496,
+                "friends_count": 96,
+                "listed_count": 53,
+                "created_at": "Sat Apr 11 23:29:16 +0000 2020",
+                "favourites_count": 31754,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7031,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1389152698662940673/V4nPhdNK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389152698662940673/V4nPhdNK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249117291515543552/1607300240",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 227,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 03 11:23:50 +0000 2021",
+            "id": 1411284544301395975,
+            "id_str": "1411284544301395975",
+            "text": "土日のまとまった時間が取れる日はプログラミングの勉強していますが、Progateの進め方って何がおすすめですか？\n\n人それぞれだとは思いますが、私はHTML/CSS→JavaScript/jQuery→Python→SQLの順に進… https://t.co/YnqRDOIR2h",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YnqRDOIR2h",
+                        "expanded_url": "https://twitter.com/i/web/status/1411284544301395975",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1406536526926733314,
+                "id_str": "1406536526926733314",
+                "name": "じゅんな@未経験",
+                "screen_name": "punks23142441",
+                "location": "",
+                "description": "愛知県民・2020年大学卒業後、留学の予定がコロナで中止。自粛期間中にプログラミングを始め、2021年2月SES企業に就職、現在テスターとして働く音楽、漫画好きな若者が、2021年10月以降開発現場にアサインされるまで？(それ以降も…)の日常や情報収集、アウトプットの為に開設したアカウント",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 234,
+                "friends_count": 598,
+                "listed_count": 0,
+                "created_at": "Sun Jun 20 08:57:05 +0000 2021",
+                "favourites_count": 36,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 71,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1406556965610819586/mnxcpU7M_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406556965610819586/mnxcpU7M_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406536526926733314/1624181706",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 145,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 03 08:21:51 +0000 2021",
+            "id": 1411238747258064900,
+            "id_str": "1411238747258064900",
+            "text": "Progate の JavaScript コースを 1 週終えました！5 週目指してがんばります💪\n\n#駆け出しエンジニアと繋がりたい\n#プログラミング初心者\n#Progate",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            51,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            68,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "Progate",
+                        "indices": [
+                            80,
+                            88
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1342667773445513217,
+                "id_str": "1342667773445513217",
+                "name": "にーつ＠駆け出しエンジニア",
+                "screen_name": "neeets13",
+                "location": "Japan",
+                "description": "20代後半フリーター 未経験からGAFAフリーランスエンジニアを目指す👨‍💻 2021/06~ プログラミング💻/筋トレ💪/コーヒー☕️/HTML/CSS/JavaScript/Python #プログラミング初心者 #駆け出しエンジニアと繋がりたい #自己分析 #マインドセット #自由な生き方 #Progate",
+                "url": "https://t.co/KUHgtKY0eX",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KUHgtKY0eX",
+                                "expanded_url": "https://github.com/neets13",
+                                "display_url": "github.com/neets13",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 185,
+                "friends_count": 176,
+                "listed_count": 0,
+                "created_at": "Sat Dec 26 03:05:27 +0000 2020",
+                "favourites_count": 214,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 154,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1403520623373025282/UZSZUKAE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403520623373025282/UZSZUKAE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342667773445513217/1623488510",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 143,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 02 03:46:58 +0000 2021",
+            "id": 1410807182606553089,
+            "id_str": "1410807182606553089",
+            "text": "僕はJavaScriptの学習を進めているのですが、独学ゆえにやっぱり頭を抱える瞬間があります😂\n\n皆さんは不明点をどのように解決しましたか🤔\n\nすぐに質問できる環境に身をおきたーーい！\n\n#駆け出しエンジニアと繋がりたい \n#プログラミング初心者と繋がりたい \n#Web制作",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            95,
+                            111
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者と繋がりたい",
+                        "indices": [
+                            113,
+                            130
+                        ]
+                    },
+                    {
+                        "text": "Web制作",
+                        "indices": [
+                            132,
+                            138
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1405500808242733059,
+                "id_str": "1405500808242733059",
+                "name": "ひかる@マケモン",
+                "screen_name": "hikaru_makemon",
+                "location": "",
+                "description": "Webマーケティングチーム@tunononten所属▷▶Web制作・SNS代行・SEO対策・コンテンツ制作/☀️現在プログラミング学習中☀️※お仕事の連絡はDMまで👾",
+                "url": "https://t.co/HrWjwJODz7",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/HrWjwJODz7",
+                                "expanded_url": "https://marke.monster",
+                                "display_url": "marke.monster",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 58,
+                "friends_count": 84,
+                "listed_count": 1,
+                "created_at": "Thu Jun 17 12:21:29 +0000 2021",
+                "favourites_count": 93,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1405501293276270597/0iCgLYC5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405501293276270597/0iCgLYC5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1405500808242733059/1625205003",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 165,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 14:48:43 +0000 2021",
+            "id": 1410611329224699906,
+            "id_str": "1410611329224699906",
+            "text": "🧡 6/15 ~ Progate HTML&amp;CSS（6/21 済）\n🧡 6/24 ~「1冊ですべて身につくHTML&amp;CSSとWebデザイン入門講座」→ 目標期間2週間（ ~ 7/7 ）\n🧡 6/30 ~ Progate JavaS… https://t.co/sFUoiXrLMZ",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/sFUoiXrLMZ",
+                        "expanded_url": "https://twitter.com/i/web/status/1410611329224699906",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1392534173047349251,
+                "id_str": "1392534173047349251",
+                "name": "misako｜プログラミング勉強中",
+                "screen_name": "miiisaako",
+                "location": "",
+                "description": "大阪 ✈︎ 🇬🇺🇰🇷🇹🇼 / 한국어 가능 / 元空港勤務 / 元エステティシャン / 息抜きは韓国旅行 / 渡韓 23回 / 2021.2 〜 中国語 / 2021.6 〜 プログラミング (HTML&CSS → JavaScript → ) / \" 場所に囚われない働き方 \" が目標",
+                "url": "https://t.co/t4QVZrVt0h",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/t4QVZrVt0h",
+                                "expanded_url": "https://www.instagram.com/miiisaako",
+                                "display_url": "instagram.com/miiisaako",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 171,
+                "friends_count": 220,
+                "listed_count": 0,
+                "created_at": "Wed May 12 17:37:20 +0000 2021",
+                "favourites_count": 721,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 152,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1392536198422306816/HiXv9IXF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392536198422306816/HiXv9IXF_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 124,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 02:15:00 +0000 2021",
+            "id": 1410421649329905664,
+            "id_str": "1410421649329905664",
+            "text": "謎すぎて😇←こういう顔になってませんか？\n\n・プロゲート道場ムリすぎる😇\n・JavaScript？呪文かいな😇\n・模写？1ミリも進まへん😇\n・営業？全然返事こねぇ😇\n・web広告？美味しいの？😇\n・Shopify？提案どうやるん😇… https://t.co/tjk633W3av",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/tjk633W3av",
+                        "expanded_url": "https://twitter.com/i/web/status/1410421649329905664",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1189553392755994624,
+                "id_str": "1189553392755994624",
+                "name": "祐太@はらブログ🐮",
+                "screen_name": "haraponta1496",
+                "location": "👇「クラウドワークス　提案」で検索一位「はらブログ」",
+                "description": "札幌在住。延べ300人以上の成果創出の支援経験から「#codolife」運営（目標達成率95％）/パワポしか使えない会社員→満員電車が嫌でWeb制作を900時間勉強/Webマーケで月500万円/Twitter12カ月で万垢に/普通でも成果を出すコツや考え方を発信してます。趣味はサウナ。燻ってるなら一緒に挑戦しませんか？",
+                "url": "https://t.co/Or65tf5j2V",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Or65tf5j2V",
+                                "expanded_url": "https://linktr.ee/harayuta",
+                                "display_url": "linktr.ee/harayuta",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14112,
+                "friends_count": 1753,
+                "listed_count": 104,
+                "created_at": "Wed Oct 30 14:43:35 +0000 2019",
+                "favourites_count": 45547,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 20345,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1189553629964881920/NA5-SFG5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189553629964881920/NA5-SFG5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1189553392755994624/1621813392",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 233,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
