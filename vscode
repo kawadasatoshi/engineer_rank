@@ -1,0 +1,201 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Tue Jul 06 11:03:03 +0000 2021",
+            "id": 1412366478972760070,
+            "id_str": "1412366478972760070",
+            "text": "コーディング速度を飛躍的に向上させる方法12選\n\n・Sass\n・gulp導入\n・チートシート\n・クラス名固定化\n・Emmet/Snippet\n・デュアルモニター\n・コードのストック\n・VSCodeプラグイン\n・タイピング速度向上… https://t.co/kih69mp1qE",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kih69mp1qE",
+                        "expanded_url": "https://twitter.com/i/web/status/1412366478972760070",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1123786653108248576,
+                "id_str": "1123786653108248576",
+                "name": "ゆーすけｌWeb制作を教える人",
+                "screen_name": "U_suke313",
+                "location": "リンクツリー ▶︎▷",
+                "description": "Web制作案件に必要なTipsやマインドを教えます｜業界初エンド営業スクール #WSSクラス 運営メンバー｜デザイン〜コーディング〜営業まで一式学べるスクール #WebeduGate 講師｜一児パパ｜元理学療法士・現フリーランス｜コーディングで稼げるまでの最短ロードマップは固定ツイートで公開してます",
+                "url": "https://t.co/YwFlW2GbD9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/YwFlW2GbD9",
+                                "expanded_url": "https://linktr.ee/u_suke313",
+                                "display_url": "linktr.ee/u_suke313",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8835,
+                "friends_count": 228,
+                "listed_count": 92,
+                "created_at": "Thu May 02 03:09:51 +0000 2019",
+                "favourites_count": 135572,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7726,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376752153562247170/-MMFzIwT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376752153562247170/-MMFzIwT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123786653108248576/1617525566",
+                "profile_link_color": "4865B1",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 139,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 05 11:32:02 +0000 2021",
+            "id": 1412011384091652096,
+            "id_str": "1412011384091652096",
+            "text": "勉強中の挫折しかけた瞬間🥺\n\n・VSCODE画面表示できない。笑\n・パソコンの設定が変で永遠停止\n・ショートカットキー使えない\n・覚えようとして、進まない\n・寝る瞬間も頭の中がコード\n・夢でコード打ってる😪\n・HTMLとCSSの違… https://t.co/sdTlh4RDnb",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/sdTlh4RDnb",
+                        "expanded_url": "https://twitter.com/i/web/status/1412011384091652096",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1357116159737274368,
+                "id_str": "1357116159737274368",
+                "name": "あや🌸WEB営業×ディレクター",
+                "screen_name": "ayaice122105",
+                "location": "【WEB営業と成果が出る手法】について発信🌿",
+                "description": "【マーケ×ディレ×営業🌈】｜19歳で上場企業西日本営業1位▶︎大学首席▶︎npo法人代表▶︎EC事業立ち上げ・運用▶︎web制作フリーランス🌷｜ヨガアンバサダー🌿｜営業初めて4日で8件契約▶︎営業活動9日で初月172万▶︎2ヶ月目12件430万なう👼｜やりたいこと全部やる為に頑張ってます😌",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4179,
+                "friends_count": 205,
+                "listed_count": 24,
+                "created_at": "Wed Feb 03 23:58:13 +0000 2021",
+                "favourites_count": 41100,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4830,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1413143863464656917/enGrId7n_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413143863464656917/enGrId7n_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357116159737274368/1625728484",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 271,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
