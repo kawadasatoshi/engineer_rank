@@ -1,0 +1,575 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Wed Jul 07 02:04:32 +0000 2021",
+            "id": 1412593342227959820,
+            "id_str": "1412593342227959820",
+            "text": "あまり小さな声では言えないけど、未経験からのRubyエンジニアを目指す場合にRubyとRailsの入門知識を詰め込んだら、その後はこの3冊を徹底的にやると結構な力はつくと思う。\nあとは現場経験しかない。 https://t.co/MaNDmxHrE8",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1412593331318575110,
+                        "id_str": "1412593331318575110",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5qKJo1UUAYQgKP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5qKJo1UUAYQgKP.jpg",
+                        "url": "https://t.co/MaNDmxHrE8",
+                        "display_url": "pic.twitter.com/MaNDmxHrE8",
+                        "expanded_url": "https://twitter.com/zer0_ykisaragi/status/1412593342227959820/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 456,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 805,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1125,
+                                "h": 1677,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1412593331318575110,
+                        "id_str": "1412593331318575110",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5qKJo1UUAYQgKP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5qKJo1UUAYQgKP.jpg",
+                        "url": "https://t.co/MaNDmxHrE8",
+                        "display_url": "pic.twitter.com/MaNDmxHrE8",
+                        "expanded_url": "https://twitter.com/zer0_ykisaragi/status/1412593342227959820/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 456,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 805,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1125,
+                                "h": 1677,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1412593331868110850,
+                        "id_str": "1412593331868110850",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5qKJq4VkAI_f-1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5qKJq4VkAI_f-1.jpg",
+                        "url": "https://t.co/MaNDmxHrE8",
+                        "display_url": "pic.twitter.com/MaNDmxHrE8",
+                        "expanded_url": "https://twitter.com/zer0_ykisaragi/status/1412593342227959820/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1125,
+                                "h": 1760,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 767,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 435,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1412593331876466690,
+                        "id_str": "1412593331876466690",
+                        "indices": [
+                            102,
+                            125
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E5qKJq6VEAIlKTB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E5qKJq6VEAIlKTB.jpg",
+                        "url": "https://t.co/MaNDmxHrE8",
+                        "display_url": "pic.twitter.com/MaNDmxHrE8",
+                        "expanded_url": "https://twitter.com/zer0_ykisaragi/status/1412593342227959820/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 416,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1125,
+                                "h": 1841,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 733,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1044749371676352512,
+                "id_str": "1044749371676352512",
+                "name": "きさらぎさん",
+                "screen_name": "zer0_ykisaragi",
+                "location": "日本",
+                "description": "彼女とは、遥か彼方の女と書く。女性とは向こう側だよ、我々にとってはね。生息地は横浜/みなとみらい周辺",
+                "url": "https://t.co/Zcx2A2eio6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Zcx2A2eio6",
+                                "expanded_url": "https://ameblo.jp/apples-0309/",
+                                "display_url": "ameblo.jp/apples-0309/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3883,
+                "friends_count": 2829,
+                "listed_count": 8,
+                "created_at": "Wed Sep 26 00:43:55 +0000 2018",
+                "favourites_count": 70195,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 14826,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1405138498995118086/s-_YWQ8o_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405138498995118086/s-_YWQ8o_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044749371676352512/1617484733",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 145,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 22:58:10 +0000 2021",
+            "id": 1411821669149069315,
+            "id_str": "1411821669149069315",
+            "text": "フロントエンドエンジニアになりたいんですけど\nそれでもruby on railsってやった方がいいんでしょうか？\n素人の私にはサーバーサイド言語はやらなくていいって思ってしまうのですが、、\n\n#駆け出しエンジニアと繋がりたい",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            96,
+                            112
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1411566897112313864,
+                "id_str": "1411566897112313864",
+                "name": "スヤちゃん@駆け出しエンジニアになりたい",
+                "screen_name": "_suyachan",
+                "location": "",
+                "description": "未経験からフロントエンドエンジニアになりたくてプログラミング始めました！今はアパレル販売員をしながら隙間時間にProgate学習中💻✏️😠Twitterの素晴らしい方々を参考にさせていただいてます🙇‍♀️Twitterを通してたくさんの方々と繋がりたいです😊✨川口春奈ちゃん推しです💕",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 485,
+                "friends_count": 72,
+                "listed_count": 0,
+                "created_at": "Sun Jul 04 06:05:58 +0000 2021",
+                "favourites_count": 103,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 118,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411567175605788672/f6WiKDmq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411567175605788672/f6WiKDmq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411566897112313864/1625379088",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 108,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 04 22:50:00 +0000 2021",
+            "id": 1411819610848980996,
+            "id_str": "1411819610848980996",
+            "text": "「RubyとRailsの学習ガイド2021」\n好評をいただいた「RubyとRailsの学習ガイド」の全面改訂版を7/10開始の技術書典11で発売します！\n\nWebで使われるたくさんの技術は全体の中でどんな位置づけなのか？Rails… https://t.co/6BEMv4zL2D",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/6BEMv4zL2D",
+                        "expanded_url": "https://twitter.com/i/web/status/1411819610848980996",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4596601,
+                "id_str": "4596601",
+                "name": "igaiga",
+                "screen_name": "igaiga555",
+                "location": "Tokyo",
+                "description": "五十嵐邦明 フリーランスRailsエンジニア ガーネットテック373株式会社 経歴 https://t.co/sUQTxmukqK 著書 Railsの教科書 https://t.co/GT3XzdWqUP RubyとRailsの学習ガイド https://t.co/4G87fYPLJm Ruby超入門 パーフェクトRails 著書一覧 https://t.co/RaxRk01c1b",
+                "url": "https://t.co/BmHMV2HkjG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BmHMV2HkjG",
+                                "expanded_url": "https://igarashikuniaki.net/diary/",
+                                "display_url": "igarashikuniaki.net/diary/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sUQTxmukqK",
+                                "expanded_url": "http://bit.ly/igaigaesa",
+                                "display_url": "bit.ly/igaigaesa",
+                                "indices": [
+                                    42,
+                                    65
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/GT3XzdWqUP",
+                                "expanded_url": "http://bit.ly/igarails",
+                                "display_url": "bit.ly/igarails",
+                                "indices": [
+                                    79,
+                                    102
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/4G87fYPLJm",
+                                "expanded_url": "http://bit.ly/igarrsg",
+                                "display_url": "bit.ly/igarrsg",
+                                "indices": [
+                                    120,
+                                    143
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/RaxRk01c1b",
+                                "expanded_url": "http://bit.ly/igabooks",
+                                "display_url": "bit.ly/igabooks",
+                                "indices": [
+                                    169,
+                                    192
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4498,
+                "friends_count": 1722,
+                "listed_count": 208,
+                "created_at": "Sat Apr 14 12:21:25 +0000 2007",
+                "favourites_count": 178308,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 83399,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1377834131732582401/EXjKG-Hx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377834131732582401/EXjKG-Hx_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4596601/1625792767",
+                "profile_link_color": "33919E",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 41,
+            "favorite_count": 153,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 01 21:54:14 +0000 2021",
+            "id": 1410718414042058752,
+            "id_str": "1410718414042058752",
+            "text": "いまさら思うけど、Ruby on Rails作った人天才やね👨‍💻",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1268751606893260807,
+                "id_str": "1268751606893260807",
+                "name": "おばあちゃんのプログラミング教室（ばあプロ）【旧式】",
+                "screen_name": "Pythonist19",
+                "location": "東京 新宿区",
+                "description": "10年間の開発と5年間の新人教育の経験を活かしやさしく解説。初学者向けにWeb制作の歩き方（https://t.co/VsjwBebnZr）公開。　\nお気に入りエディタはMery。Python, PHP, HTML, MySQL, ラズパイ。Vueが好き。MBAほるだぁ。エンジニア兼Webマーケ。DM見ないぞい",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VsjwBebnZr",
+                                "expanded_url": "http://www.baapuro.com",
+                                "display_url": "baapuro.com",
+                                "indices": [
+                                    46,
+                                    69
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 20112,
+                "friends_count": 16899,
+                "listed_count": 93,
+                "created_at": "Fri Jun 05 03:49:03 +0000 2020",
+                "favourites_count": 52342,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 31773,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1373400048462045185/x5L1G8Uw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373400048462045185/x5L1G8Uw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268751606893260807/1591340962",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 151,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
