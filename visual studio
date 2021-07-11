@@ -1,0 +1,445 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Fri Jul 09 07:56:06 +0000 2021",
+            "id": 1413406595191504898,
+            "id_str": "1413406595191504898",
+            "text": "Visual Studio Code、Create Terminal in Editor Area というコマンドで、編集部に端末を表示できる様になった。 https://t.co/B47QwzCHbg",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1413406437691166727,
+                        "id_str": "1413406437691166727",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E51tqqHVEAcflQy.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E51tqqHVEAcflQy.png",
+                        "url": "https://t.co/B47QwzCHbg",
+                        "display_url": "pic.twitter.com/B47QwzCHbg",
+                        "expanded_url": "https://twitter.com/mattn_jp/status/1413406595191504898/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 502,
+                                "h": 252,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 502,
+                                "h": 252,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 502,
+                                "h": 252,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1413406437691166727,
+                        "id_str": "1413406437691166727",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E51tqqHVEAcflQy.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E51tqqHVEAcflQy.png",
+                        "url": "https://t.co/B47QwzCHbg",
+                        "display_url": "pic.twitter.com/B47QwzCHbg",
+                        "expanded_url": "https://twitter.com/mattn_jp/status/1413406595191504898/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 502,
+                                "h": 252,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 502,
+                                "h": 252,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 502,
+                                "h": 252,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1413406585456455682,
+                        "id_str": "1413406585456455682",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E51tzQlUcAIauna.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E51tzQlUcAIauna.png",
+                        "url": "https://t.co/B47QwzCHbg",
+                        "display_url": "pic.twitter.com/B47QwzCHbg",
+                        "expanded_url": "https://twitter.com/mattn_jp/status/1413406595191504898/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 594,
+                                "h": 364,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 594,
+                                "h": 364,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 594,
+                                "h": 364,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3180341,
+                "id_str": "3180341",
+                "name": "mattn",
+                "screen_name": "mattn_jp",
+                "location": "Osaka, Japan",
+                "description": "Long-time #Golang user&contributor, @GoogleDevExpert Go, Author of Go tools, #Vim plugins. #Windows hacker, #GitHub stars, #runner.\nhttps://t.co/t2LBoilJw9\n発言は全て冗談です",
+                "url": "https://t.co/gQTGxgKZ7J",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gQTGxgKZ7J",
+                                "expanded_url": "https://mattn.kaoriya.net/",
+                                "display_url": "mattn.kaoriya.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/t2LBoilJw9",
+                                "expanded_url": "http://github.com/mattn",
+                                "display_url": "github.com/mattn",
+                                "indices": [
+                                    132,
+                                    155
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 20370,
+                "friends_count": 2668,
+                "listed_count": 648,
+                "created_at": "Mon Apr 02 04:19:11 +0000 2007",
+                "favourites_count": 33994,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 156355,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3180341/1398600741",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 24,
+            "favorite_count": 125,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 09 00:03:12 +0000 2021",
+            "id": 1413287586731159557,
+            "id_str": "1413287586731159557",
+            "text": "Visual Studio Code の Vim 拡張上で起きる問題のほぼ 99% は Vim を使う事で解決する。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3180341,
+                "id_str": "3180341",
+                "name": "mattn",
+                "screen_name": "mattn_jp",
+                "location": "Osaka, Japan",
+                "description": "Long-time #Golang user&contributor, @GoogleDevExpert Go, Author of Go tools, #Vim plugins. #Windows hacker, #GitHub stars, #runner.\nhttps://t.co/t2LBoilJw9\n発言は全て冗談です",
+                "url": "https://t.co/gQTGxgKZ7J",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gQTGxgKZ7J",
+                                "expanded_url": "https://mattn.kaoriya.net/",
+                                "display_url": "mattn.kaoriya.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/t2LBoilJw9",
+                                "expanded_url": "http://github.com/mattn",
+                                "display_url": "github.com/mattn",
+                                "indices": [
+                                    132,
+                                    155
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 20370,
+                "friends_count": 2668,
+                "listed_count": 648,
+                "created_at": "Mon Apr 02 04:19:11 +0000 2007",
+                "favourites_count": 33994,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 156355,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3180341/1398600741",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 29,
+            "favorite_count": 154,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 08 00:34:48 +0000 2021",
+            "id": 1412933150016081921,
+            "id_str": "1412933150016081921",
+            "text": "多くのRT、いいね、温かいメッセージをありがとうございます。感謝の気持ちでいっぱいです。\n常に最先端の映像技術を届ける会社であるよう挑戦を続けます。\n\n配信ライブに提供しているXRステージを進化させたバーチャル制作スタジオ「Hib… https://t.co/E8m86ASKW0",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/E8m86ASKW0",
+                        "expanded_url": "https://twitter.com/i/web/status/1412933150016081921",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1412637502553219074,
+            "in_reply_to_status_id_str": "1412637502553219074",
+            "in_reply_to_user_id": 236694699,
+            "in_reply_to_user_id_str": "236694699",
+            "in_reply_to_screen_name": "Hibino_Group",
+            "user": {
+                "id": 236694699,
+                "id_str": "236694699",
+                "name": "HIBINO ヒビノグループ",
+                "screen_name": "Hibino_Group",
+                "location": "東京都港区港南3-5-14",
+                "description": "ヒビノグループの公式アカウントです。音響と映像を中心とする製品、商品、サービス、キャンペーンや企業活動など、当社グループのさまざまな情報をお届けします。【コミュニティ・ガイドライン】https://t.co/4sNQkVeiEh",
+                "url": "https://t.co/KXERCZioOf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KXERCZioOf",
+                                "expanded_url": "https://www.hibino.co.jp/group/",
+                                "display_url": "hibino.co.jp/group/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/4sNQkVeiEh",
+                                "expanded_url": "https://www.hibino.co.jp/communityguideline.html",
+                                "display_url": "hibino.co.jp/communityguide…",
+                                "indices": [
+                                    91,
+                                    114
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2781,
+                "friends_count": 56,
+                "listed_count": 32,
+                "created_at": "Tue Jan 11 04:47:55 +0000 2011",
+                "favourites_count": 509,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1194,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1269824876631560193/_i6VPmgF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269824876631560193/_i6VPmgF_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/236694699/1568681804",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 73,
+            "favorite_count": 164,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        }
+    ]
+}
