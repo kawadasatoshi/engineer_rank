@@ -1,0 +1,438 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Mon Jul 12 13:22:45 +0000 2021",
+            "id": 1414575962591678466,
+            "id_str": "1414575962591678466",
+            "text": "公務員を辞める案件無し駆け出しエンジニアの方が話題ですが、彼らの期待値を調整するのはかなり難しいです。\n前職で「現実路線のエンジニア転職セミナー」をしたことがあります。幻想を論破していったら不貞腐れて帰った方が居られました。夫婦も… https://t.co/hhYkri3eWq",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/hhYkri3eWq",
+                        "expanded_url": "https://twitter.com/i/web/status/1414575962591678466",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14241716,
+                "id_str": "14241716",
+                "name": "久松剛",
+                "screen_name": "makaibito",
+                "location": "青いジャンク箱",
+                "description": "博士（慶應SFC、IT）／IT百物語の蒐集家／LIGのくま・採用・T&OコンサルもするEM・PjM←レバレジーズほぼVPoE開発部長・レバテック技術顧問←大手自社サービスSRE・情シス部長←高学歴ワーキングプア研究職",
+                "url": "https://t.co/nWhklS6YwF",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nWhklS6YwF",
+                                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/TSL8G0YZG79C?ref_=wl_share",
+                                "display_url": "amazon.jp/hz/wishlist/ls…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4199,
+                "friends_count": 2901,
+                "listed_count": 188,
+                "created_at": "Fri Mar 28 05:26:59 +0000 2008",
+                "favourites_count": 32134,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 59509,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1316176930027184128/3A7V6ArU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316176930027184128/3A7V6ArU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14241716/1603627211",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 310,
+            "favorite_count": 617,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 12 06:02:05 +0000 2021",
+            "id": 1414465063612674054,
+            "id_str": "1414465063612674054",
+            "text": "おかんが言うには、『フリーランスになるために勉強頑張ります！』って初めは勢いがあるんやけど、その大半が1ヶ月後に消息不明になってしまうんよ。\n\n『その特徴は駆け出しエンジニアやないかい』\n\n#駆け出しエンジニアと繋がりたい\n#プログラミング初心者",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            95,
+                            111
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            112,
+                            123
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1249117291515543552,
+                "id_str": "1249117291515543552",
+                "name": "スタバでMacを開くエンジニア",
+                "screen_name": "MacopeninSUTABA",
+                "location": "↓プログラミン情報のまとめサイト作りました↓",
+                "description": "【ネタ系×渋谷のエンジニア】独学 ▶︎ 学生フリーランス ▶︎ 自社開発(フロント) | 月間500万PV | TikTok4.8万 | React×TypeScript×Next.js | 【朝活】×【図解】×【プログラミング情報】×【ネタ系】を発信。",
+                "url": "https://t.co/1cNABH5FlM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/1cNABH5FlM",
+                                "expanded_url": "https://sbucks-blog.com/",
+                                "display_url": "sbucks-blog.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8684,
+                "friends_count": 90,
+                "listed_count": 55,
+                "created_at": "Sat Apr 11 23:29:16 +0000 2020",
+                "favourites_count": 32266,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7248,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1389152698662940673/V4nPhdNK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389152698662940673/V4nPhdNK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249117291515543552/1607300240",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 133,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 11 17:23:06 +0000 2021",
+            "id": 1414274059919978496,
+            "id_str": "1414274059919978496",
+            "text": "今更ですが、駆け出しエンジニアってもはや詐欺師の標的なんですね😅\n\n学歴・職歴関係なく若者が数年で年収1000万円を狙える職業は情弱ホイホイでもあるのか…\n\n初学者のみなさん、ご注意下さい🥲\n\n#駆け出しエンジニアと繋がりたい #プログラミング初心者 #今日の積み上げ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "駆け出しエンジニアと繋がりたい",
+                        "indices": [
+                            97,
+                            113
+                        ]
+                    },
+                    {
+                        "text": "プログラミング初心者",
+                        "indices": [
+                            114,
+                            125
+                        ]
+                    },
+                    {
+                        "text": "今日の積み上げ",
+                        "indices": [
+                            126,
+                            134
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1247103787807825920,
+                "id_str": "1247103787807825920",
+                "name": "白猫",
+                "screen_name": "shironeko_ton",
+                "location": "東京都 渋谷区",
+                "description": "ITスタートアップ企業を作ってます。1人でゼロから上場を目指します。2021年2月スタート。PHP/Laravel/DB設計/セキュリティ/デザイン/会社経営16年 ✳︎気軽にリプ下さい😌",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 895,
+                "friends_count": 337,
+                "listed_count": 4,
+                "created_at": "Mon Apr 06 10:08:17 +0000 2020",
+                "favourites_count": 3956,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1536,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1249548550783918080/q-Ne43po_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249548550783918080/q-Ne43po_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247103787807825920/1624630557",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 23,
+            "favorite_count": 198,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 11 02:44:27 +0000 2021",
+            "id": 1414052940109651970,
+            "id_str": "1414052940109651970",
+            "text": "a、現役エンジニア\n「実務1年で月収80万？1年とか新人でしょ笑。プログラミングは難しいから時間かかるよ」\n\nb、インフルエンサー\n「プログラミングは簡単です。実務1年で月収80万円のリモートワークも余裕です。難しいとか言ってる連… https://t.co/w2I9x2u75V",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/w2I9x2u75V",
+                        "expanded_url": "https://twitter.com/i/web/status/1414052940109651970",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1074550476979429376,
+                "id_str": "1074550476979429376",
+                "name": "ごま塩シンジ@30代後半、完全未経験からプログラマーに転職しました",
+                "screen_name": "YSinzi",
+                "location": "DMは返信しません",
+                "description": "30代後半、完全未経験からプログラマーに就職しました。元はノースキル営業マン、今は常駐フリーランスのPHPエンジニアです。高年齢、低学歴、低スキルです。「30代後半、未経験からプログラマーに就職する方法」→ https://t.co/K9ceYxCyU0…",
+                "url": "https://t.co/w98uHEbE6B",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/w98uHEbE6B",
+                                "expanded_url": "http://cakephp2.com",
+                                "display_url": "cakephp2.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/K9ceYxCyU0",
+                                "expanded_url": "http://note.mu/gomasio_sinzi/",
+                                "display_url": "note.mu/gomasio_sinzi/",
+                                "indices": [
+                                    104,
+                                    127
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 9386,
+                "friends_count": 4812,
+                "listed_count": 43,
+                "created_at": "Mon Dec 17 06:22:52 +0000 2018",
+                "favourites_count": 37729,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2476,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1093519639793942528/N5DDqxHJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093519639793942528/N5DDqxHJ_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 66,
+            "favorite_count": 331,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
