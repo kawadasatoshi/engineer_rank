@@ -1,0 +1,232 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Wed Jul 14 03:09:44 +0000 2021",
+            "id": 1415146467933638656,
+            "id_str": "1415146467933638656",
+            "text": "なんか書きました / 最近のC言語と、次期C標準(C23) https://t.co/r23x61Sr4F #zenn",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "zenn",
+                        "indices": [
+                            54,
+                            59
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/r23x61Sr4F",
+                        "expanded_url": "https://zenn.dev/mod_poppo/articles/modern-c-language",
+                        "display_url": "zenn.dev/mod_poppo/arti…",
+                        "indices": [
+                            30,
+                            53
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 310689564,
+                "id_str": "310689564",
+                "name": "mod_poppo",
+                "screen_name": "mod_poppo",
+                "location": "",
+                "description": "最近はMLをやっています。 / 分身：https://t.co/8KUbC95f6n https://t.co/VHy5nPMG3f",
+                "url": "https://t.co/tvqpGFtsJM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/tvqpGFtsJM",
+                                "expanded_url": "https://blog.miz-ar.info/",
+                                "display_url": "blog.miz-ar.info",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/8KUbC95f6n",
+                                "expanded_url": "https://mstdn.jp/@mod_poppo",
+                                "display_url": "mstdn.jp/@mod_poppo",
+                                "indices": [
+                                    19,
+                                    42
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/VHy5nPMG3f",
+                                "expanded_url": "https://mathtod.online/@mod_poppo",
+                                "display_url": "mathtod.online/@mod_poppo",
+                                "indices": [
+                                    43,
+                                    66
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1276,
+                "friends_count": 587,
+                "listed_count": 62,
+                "created_at": "Sat Jun 04 05:30:20 +0000 2011",
+                "favourites_count": 10796,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 88516,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/472983757314457600/djjXg08x_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/472983757314457600/djjXg08x_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/310689564/1408463073",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 120,
+            "favorite_count": 248,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 07 10:44:38 +0000 2021",
+            "id": 1412724232954408961,
+            "id_str": "1412724232954408961",
+            "text": "「競プロやるために言語変えた方がいいですか？」って言われたら、たいていの言語で「とりあえずは変えなくて良いよ！」って言われるのに、C言語使ってる人だけ「今すぐC++に変えるべき」って言われがちな不思議。でも自分も割と言う。",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15312900,
+                "id_str": "15312900",
+                "name": "chokudai(高橋 直大)🍆",
+                "screen_name": "chokudai",
+                "location": "東京都",
+                "description": "AtCoder(株)代表取締役社長(競技プログラミングの会社)/競プロ世界ランカー(ICFPC優勝4回等)/筑駒中高→慶應SFC卒/たこやき/ぷよぷよ(PS4 MaxR:2813)/モバマスまゆ小日向でしてＰ まゆドリフ全一/チュウニズム虹レ/書籍『最強最速アルゴリズマー養成講座』著者/NewsPicksプロピッカー",
+                "url": "https://t.co/Gi9ULHEQrz",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Gi9ULHEQrz",
+                                "expanded_url": "http://chokudai.net/",
+                                "display_url": "chokudai.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 52114,
+                "friends_count": 15435,
+                "listed_count": 1083,
+                "created_at": "Thu Jul 03 21:43:34 +0000 2008",
+                "favourites_count": 65860,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 124740,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1208027284776423426/K5tXeQ4P_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208027284776423426/K5tXeQ4P_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15312900/1474974082",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 53,
+            "favorite_count": 323,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
