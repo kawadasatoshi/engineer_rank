@@ -1,0 +1,451 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Wed Jul 14 12:03:03 +0000 2021",
+            "id": 1415280679839965186,
+            "id_str": "1415280679839965186",
+            "text": "覚えておくべきVSCodeのショートカットキー７選\n\n①カーソル行削除：⇧⌘K\n②下に行追加：⌘Enter\n③カーソル行を上下移動：⌥↑ or ↓\n④カーソル行を上下コピー：⇧⌥↑ or ↓\n⑤コメントアウト：⌘/\n⑥検索：⌘F… https://t.co/BRN1rFzpbt",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/BRN1rFzpbt",
+                        "expanded_url": "https://twitter.com/i/web/status/1415280679839965186",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1123786653108248576,
+                "id_str": "1123786653108248576",
+                "name": "ゆーすけ｜Web制作とSNS運用教える人",
+                "screen_name": "U_suke313",
+                "location": "リンクツリー ▶︎▷",
+                "description": "Web制作案件に必要なTipsやマインドを教えます｜最高月収350万円｜業界初エンド営業スクール #WSSクラス 運営メンバー｜デザイン〜コーディング〜営業まで一式学べるスクール #WebeduGate 講師｜一児パパ｜元理学療法士・現フリーランス｜コーディングで稼げるまでの最短ロードマップは固定ツイートで公開してます",
+                "url": "https://t.co/YwFlW2XMuH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/YwFlW2XMuH",
+                                "expanded_url": "https://linktr.ee/u_suke313",
+                                "display_url": "linktr.ee/u_suke313",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8882,
+                "friends_count": 235,
+                "listed_count": 92,
+                "created_at": "Thu May 02 03:09:51 +0000 2019",
+                "favourites_count": 135542,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7783,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376752153562247170/-MMFzIwT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376752153562247170/-MMFzIwT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123786653108248576/1617525566",
+                "profile_link_color": "4865B1",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 141,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 12 15:19:51 +0000 2021",
+            "id": 1414605432752984066,
+            "id_str": "1414605432752984066",
+            "text": "左側のおっぱいを押し返して\nショートカットキー押すのに疲れたため\n\n左手用のキーボードを買いました",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 106151353,
+                "id_str": "106151353",
+                "name": "サク＠新作DL開始",
+                "screen_name": "saku93",
+                "location": "",
+                "description": "コスプレを嗜む人 ●onlyfans →https://t.co/Eb1A7i8d1n ●patreon→https://t.co/a18Y2NhUcb ●FANBOX→ https://t.co/GnO9pMthOf ●fantia→https://t.co/odfzfxTDJj",
+                "url": "https://t.co/dwI13pB8Xb",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dwI13pB8Xb",
+                                "expanded_url": "https://saku93.booth.pm/",
+                                "display_url": "saku93.booth.pm",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Eb1A7i8d1n",
+                                "expanded_url": "http://onlyfans.com/saku93",
+                                "display_url": "onlyfans.com/saku93",
+                                "indices": [
+                                    20,
+                                    43
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/a18Y2NhUcb",
+                                "expanded_url": "http://patreon.com/Saku93",
+                                "display_url": "patreon.com/Saku93",
+                                "indices": [
+                                    53,
+                                    76
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/GnO9pMthOf",
+                                "expanded_url": "http://bit.ly/2nZA5Lp",
+                                "display_url": "bit.ly/2nZA5Lp",
+                                "indices": [
+                                    86,
+                                    109
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/odfzfxTDJj",
+                                "expanded_url": "https://fantia.jp/67f82d0774",
+                                "display_url": "fantia.jp/67f82d0774",
+                                "indices": [
+                                    118,
+                                    141
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 532090,
+                "friends_count": 1416,
+                "listed_count": 3922,
+                "created_at": "Mon Jan 18 17:19:15 +0000 2010",
+                "favourites_count": 63530,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 183720,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1194625801947242499/GCK2zy6v_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194625801947242499/GCK2zy6v_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/106151353/1524838352",
+                "profile_link_color": "797F7F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "B2F0FF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 301,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 10 10:24:36 +0000 2021",
+            "id": 1413806352800141314,
+            "id_str": "1413806352800141314",
+            "text": "【Mac基本編】パソコン作業が爆速になる便利なショートカットキーをまとめてみました。めちゃめちゃあるやんか…… https://t.co/CpCbX1MSjJ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1413806341974597632,
+                        "id_str": "1413806341974597632",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E57ZYJqXIAAOfQu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E57ZYJqXIAAOfQu.jpg",
+                        "url": "https://t.co/CpCbX1MSjJ",
+                        "display_url": "pic.twitter.com/CpCbX1MSjJ",
+                        "expanded_url": "https://twitter.com/vivi_magazine/status/1413806352800141314/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1825,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1069,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 606,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1413806341974597632,
+                        "id_str": "1413806341974597632",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E57ZYJqXIAAOfQu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E57ZYJqXIAAOfQu.jpg",
+                        "url": "https://t.co/CpCbX1MSjJ",
+                        "display_url": "pic.twitter.com/CpCbX1MSjJ",
+                        "expanded_url": "https://twitter.com/vivi_magazine/status/1413806352800141314/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1825,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1069,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 606,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1413806347913662465,
+                        "id_str": "1413806347913662465",
+                        "indices": [
+                            56,
+                            79
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E57ZYfyWEAEnqUr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E57ZYfyWEAEnqUr.jpg",
+                        "url": "https://t.co/CpCbX1MSjJ",
+                        "display_url": "pic.twitter.com/CpCbX1MSjJ",
+                        "expanded_url": "https://twitter.com/vivi_magazine/status/1413806352800141314/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1825,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1069,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 606,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 596161773,
+                "id_str": "596161773",
+                "name": "ViVi",
+                "screen_name": "vivi_magazine",
+                "location": "",
+                "description": "雑誌『ViVi』公式Twitter(毎月23日発売KODANSHA) 八木アリサ／谷まりあ／miu／藤井サチ／古畑星夏／藤田ニコル ／愛花 ／アリアナさくら／嵐莉菜／山﨑天",
+                "url": "https://t.co/yKOYLb8qN5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/yKOYLb8qN5",
+                                "expanded_url": "http://vivi.tv/",
+                                "display_url": "vivi.tv",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 272064,
+                "friends_count": 24,
+                "listed_count": 1029,
+                "created_at": "Fri Jun 01 03:32:17 +0000 2012",
+                "favourites_count": 2127,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 25126,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1113323485898530816/oOfkrrDy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113323485898530816/oOfkrrDy_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/596161773/1621838884",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "0084B4",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 85,
+            "favorite_count": 739,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        }
+    ]
+}
