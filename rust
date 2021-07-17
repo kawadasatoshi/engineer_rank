@@ -1,0 +1,2204 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Fri Jul 16 21:33:13 +0000 2021",
+            "id": 1416148941691781125,
+            "id_str": "1416148941691781125",
+            "text": "【涙 - Lagrima - 】\n\n蝶の中でも圧倒的に発色の良い碧錆とベルベットの様な黒錆とのコントラストが美しい作品\n立体感が強く実物はかなり見応えがあります\n\n鉄と錆だけで創れるのが不思議…\n\nポストカードにするには比率がどう… https://t.co/IomSMFT4SE",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/IomSMFT4SE",
+                        "expanded_url": "https://twitter.com/i/web/status/1416148941691781125",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1046097302920749056,
+                "id_str": "1046097302920749056",
+                "name": "YASUKA.M - 鉄錆師 -",
+                "screen_name": "YASUKA_Martwork",
+                "location": "",
+                "description": "鉄板に錆と酸化被膜で絵を描いてます。奈良 蔦屋書店にて個展開催中https://t.co/V7W3nv2F2F 展示作品一覧はこちらhttps://t.co/SPKYaqWoO0",
+                "url": "https://t.co/ciSV9wIePI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ciSV9wIePI",
+                                "expanded_url": "https://www.instagram.com/yasuka.m/",
+                                "display_url": "instagram.com/yasuka.m/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/V7W3nv2F2F",
+                                "expanded_url": "https://store.tsite.jp/nara/event/shop/20178-1826340519.html",
+                                "display_url": "store.tsite.jp/nara/event/sho…",
+                                "indices": [
+                                    32,
+                                    55
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/SPKYaqWoO0",
+                                "expanded_url": "https://www.yasuka-m.net/exhibition/",
+                                "display_url": "yasuka-m.net/exhibition/",
+                                "indices": [
+                                    66,
+                                    89
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 6524,
+                "friends_count": 133,
+                "listed_count": 106,
+                "created_at": "Sat Sep 29 18:00:07 +0000 2018",
+                "favourites_count": 25931,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6132,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1087893232422244352/g4yIvChQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087893232422244352/g4yIvChQ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046097302920749056/1623101595",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 27,
+            "favorite_count": 134,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 16 12:58:58 +0000 2021",
+            "id": 1416019527301697547,
+            "id_str": "1416019527301697547",
+            "text": "【DTN #Twitch】\n\n  ▶SHAKA #Rust 配信中🎥\n\n  📺https://t.co/EqOiiEVPKY https://t.co/6bJGzG3zTc",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Twitch",
+                        "indices": [
+                            5,
+                            12
+                        ]
+                    },
+                    {
+                        "text": "Rust",
+                        "indices": [
+                            24,
+                            29
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/EqOiiEVPKY",
+                        "expanded_url": "http://twitch.tv/fps_shaka",
+                        "display_url": "twitch.tv/fps_shaka",
+                        "indices": [
+                            39,
+                            62
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1416019524030066689,
+                        "id_str": "1416019524030066689",
+                        "indices": [
+                            63,
+                            86
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6a2QTTUcAEr_hW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6a2QTTUcAEr_hW.jpg",
+                        "url": "https://t.co/6bJGzG3zTc",
+                        "display_url": "pic.twitter.com/6bJGzG3zTc",
+                        "expanded_url": "https://twitter.com/DeToNator_GG/status/1416019527301697547/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1466,
+                                "h": 828,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 678,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 384,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1416019524030066689,
+                        "id_str": "1416019524030066689",
+                        "indices": [
+                            63,
+                            86
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6a2QTTUcAEr_hW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6a2QTTUcAEr_hW.jpg",
+                        "url": "https://t.co/6bJGzG3zTc",
+                        "display_url": "pic.twitter.com/6bJGzG3zTc",
+                        "expanded_url": "https://twitter.com/DeToNator_GG/status/1416019527301697547/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1466,
+                                "h": 828,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 678,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 384,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 576406005,
+                "id_str": "576406005",
+                "name": "🔥 𝐃𝐄𝐓𝐎𝐍𝐀𝐓𝐎𝐑 🔥",
+                "screen_name": "DeToNator_GG",
+                "location": "Pro Gaming Team",
+                "description": "2009/9/13～ PUBGm/ApexLegends/ VALORANT/LoLWR | 💻DTNPC https://t.co/PWsO8fDNcX 🏪DTN STORE https://t.co/oxBSlPkkJ0👔DTNF https://t.co/qmTxcYRWPO 🎨#DTNアート",
+                "url": "https://t.co/mJKqH5yOR3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/mJKqH5yOR3",
+                                "expanded_url": "https://detonator-gg.com/",
+                                "display_url": "detonator-gg.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PWsO8fDNcX",
+                                "expanded_url": "http://bit.ly/32TfGfR",
+                                "display_url": "bit.ly/32TfGfR",
+                                "indices": [
+                                    54,
+                                    77
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/oxBSlPkkJ0",
+                                "expanded_url": "https://store.detonator-gg.com/",
+                                "display_url": "store.detonator-gg.com",
+                                "indices": [
+                                    89,
+                                    112
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/qmTxcYRWPO",
+                                "expanded_url": "http://bit.ly/2OQBy3D",
+                                "display_url": "bit.ly/2OQBy3D",
+                                "indices": [
+                                    118,
+                                    141
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 80350,
+                "friends_count": 7236,
+                "listed_count": 488,
+                "created_at": "Thu May 10 15:29:20 +0000 2012",
+                "favourites_count": 5140,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 19263,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1318031992957460480/Nq_l8v_6_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318031992957460480/Nq_l8v_6_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/576406005/1602851992",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 144,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 16 12:16:35 +0000 2021",
+            "id": 1416008862952419331,
+            "id_str": "1416008862952419331",
+            "text": "エウレカ社にご招待いただいて、Rustのハンズオンを実施しました。みなさんありがとうございました！🤗／Rustハンズオン@エウレカ社 https://t.co/tnPwchrYyg",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/tnPwchrYyg",
+                        "expanded_url": "https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe",
+                        "display_url": "speakerdeck.com/helloyuk13/rus…",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 866913084266369024,
+                "id_str": "866913084266369024",
+                "name": "yuki",
+                "screen_name": "helloyuki_",
+                "location": "Tokyo",
+                "description": "🌟 Software Engineer @ca_developers\n🎗 @rustlang_tokyo & @rustfest co-organiser\n⚙️ \"実践 Rustプログラミング入門\" coauthor\n💛 Philosophy • Art\n🇬🇧 @helloyuki_en",
+                "url": "https://t.co/eew6vPXXTA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eew6vPXXTA",
+                                "expanded_url": "https://blog-dry.com/",
+                                "display_url": "blog-dry.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1910,
+                "friends_count": 182,
+                "listed_count": 40,
+                "created_at": "Tue May 23 07:06:00 +0000 2017",
+                "favourites_count": 6788,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4216,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1276051091558248448/z8LyTPmz_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276051091558248448/z8LyTPmz_normal.png",
+                "profile_link_color": "FDB2C1",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 30,
+            "favorite_count": 178,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 15 15:17:50 +0000 2021",
+            "id": 1415692088402800640,
+            "id_str": "1415692088402800640",
+            "text": "まったりRust https://t.co/yO0hgTLikr",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/yO0hgTLikr",
+                        "expanded_url": "https://twitcasting.tv/_gocchan_/movie/692379900",
+                        "display_url": "twitcasting.tv/_gocchan_/movi…",
+                        "indices": [
+                            9,
+                            32
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2347982978,
+                "id_str": "2347982978",
+                "name": "▫️ごっちゃん@マイキー▪️【青3F】",
+                "screen_name": "_GocChaN_",
+                "location": "青3F",
+                "description": "YouTubeに動画投稿してるマイキーとごっちゃんです！ \nマイキーとは、ごっちゃんという成人男性の元に舞い降りた妖精(14歳)である🧚‍♂️\nごっちゃんは料理配信や愛犬（れむちゃん）と戯れており \nマイキーはゲームが好きでずっとゲームしてる妖精です🎮\nメンバーカラー：🤍🖤",
+                "url": "https://t.co/BOMUF8usvJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BOMUF8usvJ",
+                                "expanded_url": "https://www.youtube.com/channel/UCgFKdFutAhwsWSoeZ6zXJrg",
+                                "display_url": "youtube.com/channel/UCgFKd…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 51677,
+                "friends_count": 497,
+                "listed_count": 289,
+                "created_at": "Mon Feb 17 05:50:46 +0000 2014",
+                "favourites_count": 7590,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15148,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1414590321787244544/SN2ITdkj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414590321787244544/SN2ITdkj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2347982978/1607983324",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 31,
+            "favorite_count": 226,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 15 08:40:27 +0000 2021",
+            "id": 1415592083813855234,
+            "id_str": "1415592083813855234",
+            "text": "刀匠 安藤広康 @AndoYusuke819 \n錆師 YASUKA.M @YASUKA_Martwork \n\n#swordsmith #iron #rust #玉鋼 #tamahagane https://t.co/9W5JXgoR71",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "swordsmith",
+                        "indices": [
+                            55,
+                            66
+                        ]
+                    },
+                    {
+                        "text": "iron",
+                        "indices": [
+                            67,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "rust",
+                        "indices": [
+                            73,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "玉鋼",
+                        "indices": [
+                            79,
+                            82
+                        ]
+                    },
+                    {
+                        "text": "tamahagane",
+                        "indices": [
+                            83,
+                            94
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AndoYusuke819",
+                        "name": "刀鍛冶 安藤広康",
+                        "id": 3167982428,
+                        "id_str": "3167982428",
+                        "indices": [
+                            8,
+                            22
+                        ]
+                    },
+                    {
+                        "screen_name": "YASUKA_Martwork",
+                        "name": "YASUKA.M - 鉄錆師 -",
+                        "id": 1046097302920749056,
+                        "id_str": "1046097302920749056",
+                        "indices": [
+                            36,
+                            52
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415590752512401409,
+                        "id_str": "1415590752512401409",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6UwSg7UYAEqhzi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6UwSg7UYAEqhzi.jpg",
+                        "url": "https://t.co/9W5JXgoR71",
+                        "display_url": "pic.twitter.com/9W5JXgoR71",
+                        "expanded_url": "https://twitter.com/YASUKA_Martwork/status/1415592083813855234/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415590752512401409,
+                        "id_str": "1415590752512401409",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6UwSg7UYAEqhzi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6UwSg7UYAEqhzi.jpg",
+                        "url": "https://t.co/9W5JXgoR71",
+                        "display_url": "pic.twitter.com/9W5JXgoR71",
+                        "expanded_url": "https://twitter.com/YASUKA_Martwork/status/1415592083813855234/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415590752650891267,
+                        "id_str": "1415590752650891267",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6UwShcVkAMOTHz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6UwShcVkAMOTHz.jpg",
+                        "url": "https://t.co/9W5JXgoR71",
+                        "display_url": "pic.twitter.com/9W5JXgoR71",
+                        "expanded_url": "https://twitter.com/YASUKA_Martwork/status/1415592083813855234/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415590752738938883,
+                        "id_str": "1415590752738938883",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6UwShxVEAMbAMo.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6UwShxVEAMbAMo.jpg",
+                        "url": "https://t.co/9W5JXgoR71",
+                        "display_url": "pic.twitter.com/9W5JXgoR71",
+                        "expanded_url": "https://twitter.com/YASUKA_Martwork/status/1415592083813855234/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415590752847945728,
+                        "id_str": "1415590752847945728",
+                        "indices": [
+                            95,
+                            118
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6UwSiLUYAA11Ep.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6UwSiLUYAA11Ep.jpg",
+                        "url": "https://t.co/9W5JXgoR71",
+                        "display_url": "pic.twitter.com/9W5JXgoR71",
+                        "expanded_url": "https://twitter.com/YASUKA_Martwork/status/1415592083813855234/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1046097302920749056,
+                "id_str": "1046097302920749056",
+                "name": "YASUKA.M - 鉄錆師 -",
+                "screen_name": "YASUKA_Martwork",
+                "location": "",
+                "description": "鉄板に錆と酸化被膜で絵を描いてます。奈良 蔦屋書店にて個展開催中https://t.co/V7W3nv2F2F 展示作品一覧はこちらhttps://t.co/SPKYaqWoO0",
+                "url": "https://t.co/ciSV9wIePI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ciSV9wIePI",
+                                "expanded_url": "https://www.instagram.com/yasuka.m/",
+                                "display_url": "instagram.com/yasuka.m/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/V7W3nv2F2F",
+                                "expanded_url": "https://store.tsite.jp/nara/event/shop/20178-1826340519.html",
+                                "display_url": "store.tsite.jp/nara/event/sho…",
+                                "indices": [
+                                    32,
+                                    55
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/SPKYaqWoO0",
+                                "expanded_url": "https://www.yasuka-m.net/exhibition/",
+                                "display_url": "yasuka-m.net/exhibition/",
+                                "indices": [
+                                    66,
+                                    89
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 6524,
+                "friends_count": 133,
+                "listed_count": 106,
+                "created_at": "Sat Sep 29 18:00:07 +0000 2018",
+                "favourites_count": 25931,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6132,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1087893232422244352/g4yIvChQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087893232422244352/g4yIvChQ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1046097302920749056/1623101595",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 39,
+            "favorite_count": 198,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Thu Jul 15 06:07:21 +0000 2021",
+            "id": 1415553554492760067,
+            "id_str": "1415553554492760067",
+            "text": "おはよう～！Rust拠点たてよ https://t.co/oL7T53dIEx",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/oL7T53dIEx",
+                        "expanded_url": "https://twitcasting.tv/_gocchan_/movie/692299170",
+                        "display_url": "twitcasting.tv/_gocchan_/movi…",
+                        "indices": [
+                            16,
+                            39
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2347982978,
+                "id_str": "2347982978",
+                "name": "▫️ごっちゃん@マイキー▪️【青3F】",
+                "screen_name": "_GocChaN_",
+                "location": "青3F",
+                "description": "YouTubeに動画投稿してるマイキーとごっちゃんです！ \nマイキーとは、ごっちゃんという成人男性の元に舞い降りた妖精(14歳)である🧚‍♂️\nごっちゃんは料理配信や愛犬（れむちゃん）と戯れており \nマイキーはゲームが好きでずっとゲームしてる妖精です🎮\nメンバーカラー：🤍🖤",
+                "url": "https://t.co/BOMUF8usvJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BOMUF8usvJ",
+                                "expanded_url": "https://www.youtube.com/channel/UCgFKdFutAhwsWSoeZ6zXJrg",
+                                "display_url": "youtube.com/channel/UCgFKd…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 51677,
+                "friends_count": 497,
+                "listed_count": 289,
+                "created_at": "Mon Feb 17 05:50:46 +0000 2014",
+                "favourites_count": 7590,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15148,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1414590321787244544/SN2ITdkj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414590321787244544/SN2ITdkj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2347982978/1607983324",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 33,
+            "favorite_count": 249,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 14 15:02:45 +0000 2021",
+            "id": 1415325903647739905,
+            "id_str": "1415325903647739905",
+            "text": "ばふぁりんさんとRustする https://t.co/67QAdYpQ8o",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/67QAdYpQ8o",
+                        "expanded_url": "https://twitcasting.tv/_gocchan_/movie/692238456",
+                        "display_url": "twitcasting.tv/_gocchan_/movi…",
+                        "indices": [
+                            15,
+                            38
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitcasting.tv/\" rel=\"nofollow\">TwitCasting</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2347982978,
+                "id_str": "2347982978",
+                "name": "▫️ごっちゃん@マイキー▪️【青3F】",
+                "screen_name": "_GocChaN_",
+                "location": "青3F",
+                "description": "YouTubeに動画投稿してるマイキーとごっちゃんです！ \nマイキーとは、ごっちゃんという成人男性の元に舞い降りた妖精(14歳)である🧚‍♂️\nごっちゃんは料理配信や愛犬（れむちゃん）と戯れており \nマイキーはゲームが好きでずっとゲームしてる妖精です🎮\nメンバーカラー：🤍🖤",
+                "url": "https://t.co/BOMUF8usvJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/BOMUF8usvJ",
+                                "expanded_url": "https://www.youtube.com/channel/UCgFKdFutAhwsWSoeZ6zXJrg",
+                                "display_url": "youtube.com/channel/UCgFKd…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 51677,
+                "friends_count": 497,
+                "listed_count": 289,
+                "created_at": "Mon Feb 17 05:50:46 +0000 2014",
+                "favourites_count": 7590,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15148,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1414590321787244544/SN2ITdkj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414590321787244544/SN2ITdkj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2347982978/1607983324",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 31,
+            "favorite_count": 233,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Tue Jul 13 14:51:53 +0000 2021",
+            "id": 1414960778931757060,
+            "id_str": "1414960778931757060",
+            "text": "Rustの家に変なん建てられたんですけど https://t.co/dcjCfx37kg",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414960622547218435,
+                        "id_str": "1414960622547218435",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6LzMH4XsAM5bLP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6LzMH4XsAM5bLP.jpg",
+                        "url": "https://t.co/dcjCfx37kg",
+                        "display_url": "pic.twitter.com/dcjCfx37kg",
+                        "expanded_url": "https://twitter.com/4kqn3ko/status/1414960778931757060/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414960622547218435,
+                        "id_str": "1414960622547218435",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6LzMH4XsAM5bLP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6LzMH4XsAM5bLP.jpg",
+                        "url": "https://t.co/dcjCfx37kg",
+                        "display_url": "pic.twitter.com/dcjCfx37kg",
+                        "expanded_url": "https://twitter.com/4kqn3ko/status/1414960778931757060/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2465334757,
+                "id_str": "2465334757",
+                "name": "あかねこ",
+                "screen_name": "4kqn3ko",
+                "location": "",
+                "description": "@Luylia_ @xEfyy",
+                "url": "https://t.co/L55SFMebYq",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/L55SFMebYq",
+                                "expanded_url": "https://www.youtube.com/channel/UC0aadwlLgNaRWuwwtrCaZqg",
+                                "display_url": "youtube.com/channel/UC0aad…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1942,
+                "friends_count": 923,
+                "listed_count": 14,
+                "created_at": "Sun Apr 27 01:03:18 +0000 2014",
+                "favourites_count": 1595,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1598,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1414509991721979907/9PZ0pdCQ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414509991721979907/9PZ0pdCQ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2465334757/1625924834",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 116,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 12 13:29:10 +0000 2021",
+            "id": 1414577578615001088,
+            "id_str": "1414577578615001088",
+            "text": "14日からRustやります\n\nつきましては明日の配信（18時頃〜）でメンバーをGoogleフォームにて募集します。\n\n我輩の帝国では帝国兵（奴隷）を募集すると共に将軍となるTwitch配信者も募集しております。\n\n我輩と一緒に公式… https://t.co/wD0I5bU7KT",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/wD0I5bU7KT",
+                        "expanded_url": "https://twitter.com/i/web/status/1414577578615001088",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1260871452976222208,
+                "id_str": "1260871452976222208",
+                "name": "Shinjiさん",
+                "screen_name": "Shinjisan_XD",
+                "location": "生放送は⇨",
+                "description": "E-mail shinji.sw1@gmail.com YouTube①【https://t.co/C0EVllkmcp】②【https://t.co/5Yka4ciadv】",
+                "url": "https://t.co/5lFHNR7Oex",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5lFHNR7Oex",
+                                "expanded_url": "http://twitch.tv/shinjifromjapanxd",
+                                "display_url": "twitch.tv/shinjifromjapa…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0EVllkmcp",
+                                "expanded_url": "https://www.youtube.com/channel/UCgZ-s-gbvln0VChhCo_2hqA",
+                                "display_url": "youtube.com/channel/UCgZ-s…",
+                                "indices": [
+                                    37,
+                                    60
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/5Yka4ciadv",
+                                "expanded_url": "https://www.youtube.com/channel/UCo9ioj4sW3BmxSDizpdT6Gw",
+                                "display_url": "youtube.com/channel/UCo9io…",
+                                "indices": [
+                                    63,
+                                    86
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4723,
+                "friends_count": 87,
+                "listed_count": 13,
+                "created_at": "Thu May 14 09:55:59 +0000 2020",
+                "favourites_count": 857,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3393,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1260871705964146688/dSMedK4f_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260871705964146688/dSMedK4f_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260871452976222208/1599705379",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 112,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 12 12:22:41 +0000 2021",
+            "id": 1414560844453535744,
+            "id_str": "1414560844453535744",
+            "text": "コンテスト前のぼく：Rustおぼえた！今回はかける！\nコンテスト後のぼく：main関数に全部ロジック書いたわ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15312900,
+                "id_str": "15312900",
+                "name": "chokudai(高橋 直大)🍆",
+                "screen_name": "chokudai",
+                "location": "東京都",
+                "description": "AtCoder(株)代表取締役社長(競技プログラミングの会社)/競プロ世界ランカー(ICFPC優勝4回等)/筑駒中高→慶應SFC卒/たこやき/ぷよぷよ(PS4 MaxR:2813)/モバマスまゆ小日向でしてＰ まゆドリフ全一/チュウニズム虹レ/書籍『最強最速アルゴリズマー養成講座』著者/NewsPicksプロピッカー",
+                "url": "https://t.co/Gi9ULHEQrz",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Gi9ULHEQrz",
+                                "expanded_url": "http://chokudai.net/",
+                                "display_url": "chokudai.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 52109,
+                "friends_count": 15440,
+                "listed_count": 1085,
+                "created_at": "Thu Jul 03 21:43:34 +0000 2008",
+                "favourites_count": 65869,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 124756,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1208027284776423426/K5tXeQ4P_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208027284776423426/K5tXeQ4P_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15312900/1474974082",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 6,
+            "favorite_count": 152,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Jul 12 06:54:56 +0000 2021",
+            "id": 1414478366095208449,
+            "id_str": "1414478366095208449",
+            "text": "ビデオコーデックの入門というかHello World的記事。まずビデオコーデックが何をしているのかを説明して、簡単な実装をRustでやる\n\nHello, Video Codec!\nhttps://t.co/4L9lT16eBv",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/4L9lT16eBv",
+                        "expanded_url": "https://blog.tempus-ex.com/hello-video-codec/",
+                        "display_url": "blog.tempus-ex.com/hello-video-co…",
+                        "indices": [
+                            90,
+                            113
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 495359210,
+                "id_str": "495359210",
+                "name": "κeen",
+                "screen_name": "blackenedgold",
+                "location": "Tokyo, Jpan",
+                "description": "それ、kappaだよ ⸜( ¯⌓¯ )⸝ 。 https://t.co/uHC2I4tPTh",
+                "url": "https://t.co/L7ZAyMIbxF",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/L7ZAyMIbxF",
+                                "expanded_url": "http://keens.github.io/",
+                                "display_url": "keens.github.io",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/uHC2I4tPTh",
+                                "expanded_url": "http://keybase.io/blackenedgold",
+                                "display_url": "keybase.io/blackenedgold",
+                                "indices": [
+                                    23,
+                                    46
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4985,
+                "friends_count": 1052,
+                "listed_count": 161,
+                "created_at": "Fri Feb 17 21:47:16 +0000 2012",
+                "favourites_count": 41265,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 92700,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1231176331628433408/1rqOW5xD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231176331628433408/1rqOW5xD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/495359210/1586254414",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "038543",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 64,
+            "favorite_count": 235,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 11 11:00:47 +0000 2021",
+            "id": 1414177845278961666,
+            "id_str": "1414177845278961666",
+            "text": "最近我慢出来ずに単発ばっかり引いてしまうので本気でガチャ禁します･･･！！\nいいね･･･100\nRT･･･150\nリプ･･･200\nどれぐらいの量になろうと必ず我慢します！皆さん協力お願いします〜！！\n#ウマ娘… https://t.co/RxQ2OnX2MG",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ウマ娘",
+                        "indices": [
+                            101,
+                            105
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/RxQ2OnX2MG",
+                        "expanded_url": "https://twitter.com/i/web/status/1414177845278961666",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            107,
+                            130
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1395029760422539267,
+                "id_str": "1395029760422539267",
+                "name": "Rust@うま日記",
+                "screen_name": "Rust_uma",
+                "location": "",
+                "description": "ウマ娘専用アカウントです〜！日々の奮闘を記録するうま日記を毎日更新中！！ウマ娘アカウントはフォロバ100％✨気軽に絡んでくれると嬉しいです(´∇｀)無言フォロー失礼します( ˊᵕˋ ;)💦",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 930,
+                "friends_count": 924,
+                "listed_count": 4,
+                "created_at": "Wed May 19 14:53:28 +0000 2021",
+                "favourites_count": 950,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 739,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1397569049249255427/i1_8kqSJ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397569049249255427/i1_8kqSJ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395029760422539267/1622438112",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 127,
+            "favorite_count": 462,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 10 09:02:45 +0000 2021",
+            "id": 1413785754010980356,
+            "id_str": "1413785754010980356",
+            "text": "技術書典11でエムスリーの新刊絶賛発売中！！Rustで機械学習とかKrustletとかTypeScriptでDDDとか盛りだくさん！\n\n僕からは検索タスク抽出というテーマで寄稿してます！！\n\n#技術書典11 #技術書典… https://t.co/ghw0jVbp9e",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "技術書典11",
+                        "indices": [
+                            96,
+                            103
+                        ]
+                    },
+                    {
+                        "text": "技術書典",
+                        "indices": [
+                            104,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ghw0jVbp9e",
+                        "expanded_url": "https://twitter.com/i/web/status/1413785754010980356",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            111,
+                            134
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 554757992,
+                "id_str": "554757992",
+                "name": "pon",
+                "screen_name": "po3rin",
+                "location": "東京",
+                "description": "Software Engineer & Gopher @ M3, inc. Interested in Search Engine. Graduated Nagoya Univ (Physics). ✏️blog: https://t.co/pCrMoD7bRg",
+                "url": "https://t.co/pCrMoD7bRg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pCrMoD7bRg",
+                                "expanded_url": "https://po3rin.com",
+                                "display_url": "po3rin.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pCrMoD7bRg",
+                                "expanded_url": "https://po3rin.com",
+                                "display_url": "po3rin.com",
+                                "indices": [
+                                    108,
+                                    131
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2335,
+                "friends_count": 1173,
+                "listed_count": 40,
+                "created_at": "Mon Apr 16 01:02:17 +0000 2012",
+                "favourites_count": 2057,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2247,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1149742002830897158/Sj3RYlLu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149742002830897158/Sj3RYlLu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/554757992/1606890850",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 113,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 10 02:31:53 +0000 2021",
+            "id": 1413687390217015298,
+            "id_str": "1413687390217015298",
+            "text": "ポエムにしたためました\n\nRustによる機械学習概覧を技術書典11に寄稿するまでの軌跡 https://t.co/B9oHxxqKi2",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/B9oHxxqKi2",
+                        "expanded_url": "https://vaaaaaanquish.hatenablog.com/entry/2021/07/10/110000",
+                        "display_url": "vaaaaaanquish.hatenablog.com/entry/2021/07/…",
+                        "indices": [
+                            44,
+                            67
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 187122753,
+                "id_str": "187122753",
+                "name": "ばんくし",
+                "screen_name": "vaaaaanquish",
+                "location": "未来",
+                "description": "人間と機械学習",
+                "url": "https://t.co/b7hvpNQ6uI",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/b7hvpNQ6uI",
+                                "expanded_url": "https://vaaaaanquish.jp",
+                                "display_url": "vaaaaanquish.jp",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 24314,
+                "friends_count": 21288,
+                "listed_count": 447,
+                "created_at": "Sun Sep 05 09:40:33 +0000 2010",
+                "favourites_count": 201207,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 262194,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1190114877987266561/Fvxl9j26_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190114877987266561/Fvxl9j26_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/187122753/1554090038",
+                "profile_link_color": "FA9A3A",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 31,
+            "favorite_count": 148,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sat Jul 10 02:25:56 +0000 2021",
+            "id": 1413685890954633217,
+            "id_str": "1413685890954633217",
+            "text": "RustでTCPプロキシコマンドを実装する記事で、ほんとに手軽に実装できた👏🏻 tokioの練習のお供に！／A TCP Proxy in 30 lines of Rust https://t.co/pVntAkixRe",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pVntAkixRe",
+                        "expanded_url": "https://zmedley.com/tcp-proxy.html",
+                        "display_url": "zmedley.com/tcp-proxy.html",
+                        "indices": [
+                            86,
+                            109
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 866913084266369024,
+                "id_str": "866913084266369024",
+                "name": "yuki",
+                "screen_name": "helloyuki_",
+                "location": "Tokyo",
+                "description": "🌟 Software Engineer @ca_developers\n🎗 @rustlang_tokyo & @rustfest co-organiser\n⚙️ \"実践 Rustプログラミング入門\" coauthor\n💛 Philosophy • Art\n🇬🇧 @helloyuki_en",
+                "url": "https://t.co/eew6vPXXTA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/eew6vPXXTA",
+                                "expanded_url": "https://blog-dry.com/",
+                                "display_url": "blog-dry.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1910,
+                "friends_count": 182,
+                "listed_count": 40,
+                "created_at": "Tue May 23 07:06:00 +0000 2017",
+                "favourites_count": 6788,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4216,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1276051091558248448/z8LyTPmz_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276051091558248448/z8LyTPmz_normal.png",
+                "profile_link_color": "FDB2C1",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 128,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Fri Jul 09 19:56:13 +0000 2021",
+            "id": 1413587818245279747,
+            "id_str": "1413587818245279747",
+            "text": "GUI 書くのは(React のおかげで)TypeScript が最も楽だが、それ以外はすべて Rust の方がマシ、という事実が全てをややこしくしている",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 56680439,
+                "id_str": "56680439",
+                "name": "KOBA789",
+                "screen_name": "KOBA789",
+                "location": "Japan",
+                "description": "計算機が好き 欲しいもの: https://t.co/EV8xgXkH87 YouTube: https://t.co/vlHvRLNzCr",
+                "url": "https://t.co/yPCNZlQcRo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/yPCNZlQcRo",
+                                "expanded_url": "http://koba789.com/",
+                                "display_url": "koba789.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/EV8xgXkH87",
+                                "expanded_url": "http://amzn.to/koba789",
+                                "display_url": "amzn.to/koba789",
+                                "indices": [
+                                    14,
+                                    37
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/vlHvRLNzCr",
+                                "expanded_url": "https://www.youtube.com/c/KOBA789",
+                                "display_url": "youtube.com/c/KOBA789",
+                                "indices": [
+                                    47,
+                                    70
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3774,
+                "friends_count": 1308,
+                "listed_count": 177,
+                "created_at": "Tue Jul 14 12:29:21 +0000 2009",
+                "favourites_count": 214444,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 279379,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/875732499917295616/ZlpN5vGn_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/875732499917295616/ZlpN5vGn_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/56680439/1445169229",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 17,
+            "favorite_count": 114,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ja"
+        }
+    ]
+}
