@@ -1,0 +1,389 @@
+{
+    "tweet_list": [
+        {
+            "created_at": "Sat Jul 17 06:43:38 +0000 2021",
+            "id": 1416287458547830792,
+            "id_str": "1416287458547830792",
+            "text": "Github Copilotがunionfind全部書いてくれたｗｗｗやばすぎｗｗｗ https://t.co/egNvrw5GTh",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1416287324262985728,
+                        "id_str": "1416287324262985728",
+                        "indices": [
+                            43,
+                            66
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6ep0U6VcAArEqC.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E6ep0U6VcAArEqC.png",
+                        "url": "https://t.co/egNvrw5GTh",
+                        "display_url": "pic.twitter.com/egNvrw5GTh",
+                        "expanded_url": "https://twitter.com/gengar094kypro/status/1416287458547830792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 625,
+                                "h": 856,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 625,
+                                "h": 856,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 496,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1416287324262985728,
+                        "id_str": "1416287324262985728",
+                        "indices": [
+                            43,
+                            66
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6ep0U6VcAArEqC.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E6ep0U6VcAArEqC.png",
+                        "url": "https://t.co/egNvrw5GTh",
+                        "display_url": "pic.twitter.com/egNvrw5GTh",
+                        "expanded_url": "https://twitter.com/gengar094kypro/status/1416287458547830792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 625,
+                                "h": 856,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 625,
+                                "h": 856,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 496,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1271747788166975489,
+                "id_str": "1271747788166975489",
+                "name": "まぐげんがー",
+                "screen_name": "gengar094kypro",
+                "location": "カイナシティ",
+                "description": "中3\nC, C++, ときどき Python, Raku, Ruby, Scala, Crystal/ AtCoder(茶🍫616) / バグの波動 / 🎻 / ポケモン / スプラ / マリカ / やること：部屋の掃除する",
+                "url": "https://t.co/4SoU2rYdGL",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/4SoU2rYdGL",
+                                "expanded_url": "https://atcoder.jp/users/gengar_094",
+                                "display_url": "atcoder.jp/users/gengar_0…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 462,
+                "friends_count": 609,
+                "listed_count": 7,
+                "created_at": "Sat Jun 13 10:14:51 +0000 2020",
+                "favourites_count": 20288,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4152,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1385129953675538432/P1_0ZBps_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385129953675538432/P1_0ZBps_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271747788166975489/1603784406",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 23,
+            "favorite_count": 222,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Wed Jul 14 02:35:00 +0000 2021",
+            "id": 1415137727717142531,
+            "id_str": "1415137727717142531",
+            "text": "GitHub Copilotがスゴい。\n\nタブキーだけで、気持ちいいぐらいコードを補完。\nThree.jsで3Dモデルを表示するコードを、わずか1分で作れました。\n\nこのVS Codeの拡張機能は、JavaScriptライブラリを… https://t.co/V0XJzA9lWN",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/V0XJzA9lWN",
+                        "expanded_url": "https://twitter.com/i/web/status/1415137727717142531",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3761581,
+                "id_str": "3761581",
+                "name": "池田 泰延",
+                "screen_name": "clockmaker",
+                "location": "",
+                "description": "ウェブ業界の最新情報をいち早くお届け。現場で役立つHTML/CSS/JSやデザインツールの小技も発信中。15年ほどUIデザイン、インタラクションデザイン、フロントエンド開発を担当。3D表現とクリエイティブコーディングを得意としています。ウェブ制作会社ICS代表。筑波大学非常勤講師。",
+                "url": "https://t.co/sS1TjsFtjJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sS1TjsFtjJ",
+                                "expanded_url": "https://ics.media/entry/staff/ikeda/",
+                                "display_url": "ics.media/entry/staff/ik…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 18703,
+                "friends_count": 994,
+                "listed_count": 652,
+                "created_at": "Sun Apr 08 05:01:31 +0000 2007",
+                "favourites_count": 19897,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 28477,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/807572328842334208/yKjouEr4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/807572328842334208/yKjouEr4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3761581/1436801868",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "9E9E9E",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 104,
+            "favorite_count": 564,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Sun Jul 11 23:52:58 +0000 2021",
+            "id": 1414372175218315264,
+            "id_str": "1414372175218315264",
+            "text": "コード自動生成を行うGithub Copilot（Codex）の論文。GPTを使いdocstringで条件付けして関数を生成、159GBのpythonコードで学習、複数サンプルしunittest通過率で評価。トークン平均対数尤度が… https://t.co/lZwjankgRk",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/lZwjankgRk",
+                        "expanded_url": "https://twitter.com/i/web/status/1414372175218315264",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ja",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 12483052,
+                "id_str": "12483052",
+                "name": "Daisuke Okanohara",
+                "screen_name": "hillbig",
+                "location": "日本 東京",
+                "description": "Co-founder, COO/representative director of Preferred Networks (PFN). CEO of PFCC. Interested in deep learning and AI, robotics, biology, science, and business.",
+                "url": "https://t.co/nsVFaHIciC",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nsVFaHIciC",
+                                "expanded_url": "https://preferred.jp/en/",
+                                "display_url": "preferred.jp/en/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 19919,
+                "friends_count": 418,
+                "listed_count": 650,
+                "created_at": "Mon Jan 21 05:48:03 +0000 2008",
+                "favourites_count": 124,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3877,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1572539345/image_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572539345/image_normal.jpg",
+                "profile_link_color": "FF3300",
+                "profile_sidebar_border_color": "86A4A6",
+                "profile_sidebar_fill_color": "A0C5C7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 101,
+            "favorite_count": 372,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        }
+    ]
+}
